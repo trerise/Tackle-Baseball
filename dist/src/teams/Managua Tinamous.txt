@@ -1,0 +1,16 @@
+name: Managua Tinamous
+region: hispanic
+roster:
+Napoleon Suazo
+Eugenio Frias
+Leonel Araiza
+Gabriel James
+Eduardo Resendez
+Marcos Rueda
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

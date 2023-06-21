@@ -1,0 +1,16 @@
+name: Boston Owls
+region: american
+roster:
+Lukas Burke
+Rio Tyler
+Henry Love
+Tru Mcclain
+Brayan Vance
+Briar Pitts
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

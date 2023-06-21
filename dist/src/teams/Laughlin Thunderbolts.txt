@@ -1,0 +1,16 @@
+name: Laughlin Thunderbolts
+region: american
+roster:
+Pablo Stevens
+Jaime Sellers
+Granger Patton
+Jasiah Clark
+Briggs Olson
+Amari Grant
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

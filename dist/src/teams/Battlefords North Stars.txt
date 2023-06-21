@@ -1,0 +1,16 @@
+name: Battlefords North Stars
+region: american
+roster:
+Jabari Howard
+Dante Bruce
+Tanner Bray
+Kashton Tanner
+Ibrahim Sawyer
+Jair Gamble
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

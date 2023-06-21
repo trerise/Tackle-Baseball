@@ -1,0 +1,16 @@
+name: Bratislava Mouflons
+region: easterneuro
+roster:
+Agapion Abramtsev
+Ossip Pankin
+Avksily Romashkov
+Avkt Shubenkov
+Grigory Zasukhin
+Gleb Belous
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

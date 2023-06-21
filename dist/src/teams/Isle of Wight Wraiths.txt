@@ -1,0 +1,16 @@
+name: Isle of Wight Wraiths
+region: american
+roster:
+Sincere Noel
+Riley Trevino
+Aryan Wood
+Ozzy Vasquez
+Malcolm Sparks
+Ahmad Holland
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

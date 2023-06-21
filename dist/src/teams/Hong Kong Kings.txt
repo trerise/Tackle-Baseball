@@ -1,0 +1,16 @@
+name: Hong Kong Kings
+region: chinese
+roster:
+Xīn Yang
+Ōu Chang
+Xuē Chun
+Táng Wen
+Yán Guang
+Féng Jie
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

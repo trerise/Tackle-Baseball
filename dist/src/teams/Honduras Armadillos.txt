@@ -1,0 +1,16 @@
+name: Honduras Armadillos
+region: hispanic
+roster:
+Oliver Baker
+Adrià Estrella
+Daniel Bustillos
+Miguel Zamora
+Mariano Sandoval
+Felipe Caldera
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

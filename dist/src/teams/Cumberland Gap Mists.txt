@@ -1,0 +1,16 @@
+name: Cumberland Gap Mists
+region: american
+roster:
+Ryder Hunter
+Yehuda Ware
+Eliel Burks
+Titan Vasquez
+Maxton Boone
+Elijah Dawson
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Boise Gems
+region: american
+roster:
+Omari Cash
+Oliver Diaz
+Bennett Rodriguez
+Damian Black
+Aarav Welch
+Genesis Vasquez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

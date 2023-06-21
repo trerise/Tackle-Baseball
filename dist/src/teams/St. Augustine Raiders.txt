@@ -1,0 +1,16 @@
+name: St. Augustine Raiders
+region: american
+roster:
+Royce Ryan
+Saul Wiggins
+Chandler Booth
+Julius Lancaster
+Ander White
+Porter Jordan
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

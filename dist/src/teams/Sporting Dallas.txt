@@ -1,0 +1,16 @@
+name: Sporting Dallas
+region: american
+roster:
+Rio Schneider
+Quinn Clark
+Alessandro Ray
+Zayden Morales
+Royce Ellison
+Hank Howell
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

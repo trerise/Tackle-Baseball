@@ -1,0 +1,16 @@
+name: Lhasa Hounds
+region: indian
+roster:
+Manabendra Sahoo
+Bishamber Goyal
+Aditya Nanda
+Ammar Tamang
+Pallav Thind
+Krishnappa Achari
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

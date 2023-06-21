@@ -1,0 +1,16 @@
+name: Sooner State Weasils
+region: american
+roster:
+Matthew Johns
+Ivan Holloway
+Justin Tate
+Jiraiya Beard
+Bode Jefferson
+Wesson Barrett
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

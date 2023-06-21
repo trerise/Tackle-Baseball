@@ -1,0 +1,16 @@
+name: Casper Triceratops
+region: american
+roster:
+Alfredo Marks
+Onyx Adkins
+Alex Park
+Devin Woodard
+Truett Salinas
+Calum Bowen
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

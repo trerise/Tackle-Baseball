@@ -1,0 +1,16 @@
+name: Kenosha Thistles
+region: american
+roster:
+Khalil Hodge
+Bryant Long
+Remington Mcdowell
+Jayden Ashley
+Larry Burt
+Kyro Beard
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

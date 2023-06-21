@@ -1,0 +1,16 @@
+name: Albany Heavy Metal
+region: american
+roster:
+Eugene Avery
+Colt Mccormick
+King Travis
+Jadiel Hogan
+Kyrie Griffin
+Mohammad Coleman
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

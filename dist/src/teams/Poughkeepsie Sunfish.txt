@@ -1,0 +1,16 @@
+name: Poughkeepsie Sunfish
+region: american
+roster:
+Allan Willis
+Leonardo Hunter
+Apollo Roberson
+Leo Booker
+Jakobe Middleton
+Peyton Richardson
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

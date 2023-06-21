@@ -1,0 +1,16 @@
+name: Missouri Bluebirds
+region: american
+roster:
+Baylor Peters
+Coleson Hall
+Erik Wilder
+Jayceon Hammond
+Joshua Knight
+Keaton Guy
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

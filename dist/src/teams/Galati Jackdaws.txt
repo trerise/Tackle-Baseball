@@ -1,0 +1,16 @@
+name: Galati Jackdaws
+region: arabic
+roster:
+Izz al-Din Al-Turk
+Akeem Wahed
+Sadr al-Din Mahmoody
+Naim Labib
+Imad al-Din Shriki
+Ibro Dudin
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

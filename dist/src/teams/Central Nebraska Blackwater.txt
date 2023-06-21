@@ -1,0 +1,16 @@
+name: Central Nebraska Blackwater
+region: american
+roster:
+Benson Logan
+Lincoln Solomon
+Aydin Robbins
+Kylen Medina
+Kylan Marquez
+Yadiel Petersen
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

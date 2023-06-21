@@ -1,0 +1,16 @@
+name: Manila Freaks
+region: hispanic
+roster:
+Noe Pena
+Máximo Tavarez
+Diego Merino
+Damián Fernandez
+Elpidio Duran
+Fabricio Camarillo
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

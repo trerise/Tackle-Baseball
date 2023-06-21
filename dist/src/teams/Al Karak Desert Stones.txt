@@ -1,0 +1,16 @@
+name: Al Karak Desert Stones
+region: arabic
+roster:
+Tawfik Arafi
+Nimr Jasem
+Uzair Muhammad
+Munir Jabir
+Mojtaba Fahimi
+Jasem Assemani
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

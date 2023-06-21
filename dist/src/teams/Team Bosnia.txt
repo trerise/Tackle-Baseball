@@ -1,0 +1,16 @@
+name: Team Bosnia
+region: easterneuro
+roster:
+Agafonik Trufanov
+Vladilen Krushelnitskiy
+Rostislav Pestov
+Victor Sysoyev
+Grigory Kapitonov
+Iosif Dorokhin
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

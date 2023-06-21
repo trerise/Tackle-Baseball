@@ -1,0 +1,16 @@
+name: Aktau Scythians
+region: easterneuro
+roster:
+Danila Karavayev
+Pavsikakiy Samsonov
+Agafopod Zabolotsky
+Victor Abayantsev
+Nectarios Kamanin
+Sviatoslav Petrovsky
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Skowhegan Snakes
+region: american
+roster:
+Wilder Berger
+Ali Abbott
+Dante Bartlett
+Jayson Harper
+Rex Flowers
+Franco Munoz
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

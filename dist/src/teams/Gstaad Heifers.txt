@@ -1,0 +1,16 @@
+name: Gstaad Heifers
+region: german
+roster:
+Fabian Uiberreither
+Gerwin Helling-Plahr
+Hansjörg Rahner
+Lothar Schröder
+Marcus Pastor
+Franz Fritzsch
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

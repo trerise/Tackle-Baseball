@@ -1,0 +1,16 @@
+name: Winnipeg Bluebombers
+region: american
+roster:
+Otto Donovan
+Bruce Jensen
+Dakota Swanson
+Logan Marsh
+Drake Fuentes
+Spencer Gamble
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Macon Dixie Devils
+region: american
+roster:
+Mccoy Morales
+Colin Cruz
+Derek Rose
+Casen Murray
+Elliot Huber
+Matteo Hardy
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

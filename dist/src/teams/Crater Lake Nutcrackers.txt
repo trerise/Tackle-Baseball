@@ -1,0 +1,16 @@
+name: Crater Lake Nutcrackers
+region: american
+roster:
+Joshua Welch 2
+Frederick Gamble
+Evan Valenzuela
+Wade Boyd
+Adam Noble
+Kannon Haney
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

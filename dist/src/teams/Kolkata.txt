@@ -1,0 +1,16 @@
+name: Kolkata
+region: indian
+roster:
+Maulik Suryanarayana
+Naveen Anbazhagan
+Bhavesh Wadhwa
+Hitendra Punekar
+Nripendra Deb
+Neelan Dhand
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

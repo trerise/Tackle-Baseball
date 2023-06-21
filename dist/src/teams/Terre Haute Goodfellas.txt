@@ -1,0 +1,16 @@
+name: Terre Haute Goodfellas
+region: american
+roster:
+Atlas Castro
+Roberto Kelly
+Royal Gutierrez
+Santana Doyle
+Kaden Rosales
+Xander Spence
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

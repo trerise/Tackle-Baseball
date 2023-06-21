@@ -1,0 +1,16 @@
+name: Oklahoma City Flycatchers
+region: american
+roster:
+Emanuel Cook
+Jimmy Nixon
+Briar Matthews
+Langston Keller
+Alden Mcintyre
+Valentin Mccoy
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

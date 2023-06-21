@@ -1,0 +1,16 @@
+name: Waycross Right Whales
+region: american
+roster:
+Adler Solomon
+Allen Hood
+Cannon Shannon
+Carmelo Hutchinson
+Benedict Guzman
+Alejandro Dillon
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

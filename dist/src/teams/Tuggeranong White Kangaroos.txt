@@ -1,0 +1,16 @@
+name: Tuggeranong White Kangaroos
+region: vietnamese
+roster:
+Le Giáp
+Ngô Luận
+Trần Gia
+Quach Hiếu
+Dǒng Diệu
+Triệu Kiệt
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Ontario Green Sox
+region: american
+roster:
+Mathew Holcomb
+Atlas Hodge
+Declan Clark
+Isaiah Robbins
+Kyle Lott
+Bridger Chandler
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

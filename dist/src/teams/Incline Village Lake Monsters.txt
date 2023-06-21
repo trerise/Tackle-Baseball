@@ -1,0 +1,16 @@
+name: Incline Village Lake Monsters
+region: american
+roster:
+Raiden Cooley
+Enrique Bryant
+Grant Shaw
+Uriel Franks
+Sage Moreno
+Magnus West
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Puerto Limon Ticos
+region: hispanic
+roster:
+Axel Nunez
+Raphael Coronel
+Felipe Calderon
+Gael Rosales
+Marcelino Veloz
+Tomás Venegas
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

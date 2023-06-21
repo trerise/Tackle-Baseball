@@ -1,0 +1,16 @@
+name: SanPedro Ivory
+region: french
+roster:
+Moise Muzaton
+Charlot Chaulet
+Sylvestre Vallée
+Paul-Louis Monnier
+Guy Brosseau
+Ademar Manoury
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

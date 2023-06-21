@@ -1,0 +1,16 @@
+name: Città di Brindisi 1912
+region: italian
+roster:
+Fiorino Ciucci
+Moreno  Endrizzi
+Lando  Tombesi
+Gennaro Bussaglia
+Pellegrino Staccione
+Adelmo Ducceschi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Guadeloupe Sea Gulls
+region: hispanic
+roster:
+Manuel Pena
+Patricio Tavarez
+Javier Rosales
+Leopoldo Stevens
+Alvaro Trinidad
+José Manuel Trinidad
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

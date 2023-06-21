@@ -1,0 +1,16 @@
+name: Davenport Rams
+region: american
+roster:
+Bryant Porter
+Kolton Hinton
+Landry Salazar
+Bryant Dickerson
+Augustus Marks
+Lionel Carroll
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: St. Paul Grey Falcons
+region: american
+roster:
+Cory Mccray
+Roy Brooks
+Jax Ray
+Bryant Hammond
+Jamison Chandler
+Kellen Petersen
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

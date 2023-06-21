@@ -1,0 +1,16 @@
+name: Jordan Sultans
+region: arabic
+roster:
+Abd al-Uzza Naim
+Ubayd Allah Baha
+Khair ad-Din Yacine
+Sardar Atif
+Ali Naqi Najibullah
+Zeeshan El Guindi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

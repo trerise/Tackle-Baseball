@@ -1,0 +1,16 @@
+name: Taurus Mountains Bulls
+region: arabic
+roster:
+Ibrahim Jarrar
+Adem Hourani
+Munib Hawass
+Ihab Habus
+Fakhr al-Din Rafiq
+Rabih Nazim
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

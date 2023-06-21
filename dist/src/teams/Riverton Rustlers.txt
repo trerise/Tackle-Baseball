@@ -1,0 +1,16 @@
+name: Riverton Rustlers
+region: american
+roster:
+Steven Kane
+Leandro Everett
+Bryan Moss
+Raphael Shields
+Porter Hobbs
+Eliam Vasquez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

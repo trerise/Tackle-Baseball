@@ -1,0 +1,16 @@
+name: Panjakent Panthers
+region: arabic
+roster:
+Uday Mannah
+Wadih Al-Mutairi
+Malik Okasha
+Nur ul-Huda Harb
+Ali Reza Kirdar
+Mukhtar Adli
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Irvine Anteaters
+region: american
+roster:
+Ellis Gonzalez
+Israel Mckinney
+Kade Pugh
+Alexander Dale
+Rio Vaughn
+Lewis Stewart
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Happy ValleyGoose Bay Labradors
+region: american
+roster:
+Yosef Dale
+Jayden Keller
+Eliel Lee
+Shawn Ratliff
+Ryder Bray
+Westin Brennan
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

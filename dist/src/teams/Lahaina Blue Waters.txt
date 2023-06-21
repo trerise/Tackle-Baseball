@@ -1,0 +1,16 @@
+name: Lahaina Blue Waters
+region: american
+roster:
+Khari Berry
+Josue Chambers
+Corey Macdonald
+Ayaan Hicks
+Ariel Gilbert
+Zakai Briggs
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

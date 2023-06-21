@@ -1,0 +1,16 @@
+name: St. Thomas Blackbeards
+region: hispanic
+roster:
+José Manuel Carbajal
+Carlos Mitchell
+Lucas Negrete
+Juan Diego Quintana
+Edmundo Montelongo
+Flavio Oquendo
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

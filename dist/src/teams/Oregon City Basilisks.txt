@@ -1,0 +1,16 @@
+name: Oregon City Basilisks
+region: american
+roster:
+Aidan Nixon
+Edwin Hickman
+Kian Donaldson
+Evan Perry
+Flynn Reynolds
+Moshe Walsh
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

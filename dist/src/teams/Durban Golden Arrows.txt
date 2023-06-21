@@ -1,0 +1,16 @@
+name: Durban Golden Arrows
+region: arabic
+roster:
+Nasir Ashhad
+Abdul Araiji
+Abd Rabbo Elaraby
+Hibatullah Haddaoui
+Wahba Al-Sadr
+Azhar Atashi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

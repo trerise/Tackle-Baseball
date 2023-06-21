@@ -1,0 +1,16 @@
+name: Clearwater Thetans
+region: american
+roster:
+Jose Potts
+Matias Benton
+Corbin Ayers
+Bryant Spencer
+August Carr
+Paul Vazquez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

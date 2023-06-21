@@ -1,0 +1,16 @@
+name: Abidjan Mimosas
+region: arabic
+roster:
+Bilel Chaibi
+Ismatullah Ahsan
+Rayan Shishani
+Wahed Kadir
+Abdul Quddus Al-Bishi
+Uzair Al-Zamel
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

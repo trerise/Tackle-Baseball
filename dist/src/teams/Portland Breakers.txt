@@ -1,0 +1,16 @@
+name: Portland Breakers
+region: american
+roster:
+Braxton Vance
+Jude Blackwell
+Cody Riddle
+Michael Ruiz
+Westley Price
+Dustin Barnes
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

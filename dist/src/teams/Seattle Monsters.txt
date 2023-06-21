@@ -1,0 +1,16 @@
+name: Seattle Monsters
+region: american
+roster:
+Colton Watts
+Banks Chan
+Peter Juarez
+Bruce Joyce
+Vicente Roberts
+Joe Mclean
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

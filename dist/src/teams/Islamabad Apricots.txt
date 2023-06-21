@@ -1,0 +1,16 @@
+name: Islamabad Apricots
+region: arabic
+roster:
+Salah Ubayd Allah
+Isa Abd al-Nur
+Akif Yasser
+Tahsin Dudin
+Ridwan Hammam
+Habibullah Naceri
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

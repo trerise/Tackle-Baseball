@@ -1,0 +1,16 @@
+name: Tallahassee Meanies
+region: american
+roster:
+Henry Farley
+Nikolai Craig
+Myles Tran
+Lochlan Raymond
+Jesus Guthrie
+Walker Cummings
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

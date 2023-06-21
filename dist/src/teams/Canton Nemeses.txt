@@ -1,0 +1,16 @@
+name: Canton Nemeses
+region: american
+roster:
+Tony Newton
+Juan Sandoval
+Cillian Osborne
+Preston Lawson
+Demetrius Cline
+Marcel Cortez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

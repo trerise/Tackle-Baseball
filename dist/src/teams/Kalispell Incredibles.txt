@@ -1,0 +1,16 @@
+name: Kalispell Incredibles
+region: american
+roster:
+Eden Caldwell
+Cameron Powell
+Miguel Mcdonald
+Thiago Serrano
+Cade Pollard
+Coleson Chen
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

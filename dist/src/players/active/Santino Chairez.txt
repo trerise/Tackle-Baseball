@@ -1,0 +1,42 @@
+name: Santino Chairez
+  power: 71
+  speed: 65
+  eye: 64
+  tackle: 76
+  breaktackle: 75
+  block: 80
+  breakblock: 71
+  awareness: 87
+  age: 38
+  potential: C
+
+
+
+stats:
+Season 2023:
+  Points Scored: 0
+  Assists: 0
+  Assist Points: 0
+  Broken Tackles: 0
+  Balls Fielded (OFF): 0
+  Blocks: 0
+  Turnovers: 0
+  Pitches: 0
+  Strikes: 0
+  Balls: 0
+  Fouls: 0
+  Strikeouts Pitching: 0
+  Ballouts: 0
+  Slams Given: 0
+  At-Bats: 0
+  Hits: 0
+  Slams: 0
+  Hits to Out: 0
+  Hits to Offense: 0
+  Foulouts: 0
+  Strikeouts Batting: 0
+  Tackles: 0
+  Blocks Shed: 0
+  Interceptions: 0
+  Balls Fielded (DEF): 0
+  Total Outs Recorded: 0

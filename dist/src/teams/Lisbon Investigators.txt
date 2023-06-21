@@ -1,0 +1,16 @@
+name: Lisbon Investigators
+region: hispanic
+roster:
+Tono Johnson
+Raimon Sosa
+Gonzalo Palomo
+Francisco Rizo
+Pasqual Tafoya
+Ian Umana
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

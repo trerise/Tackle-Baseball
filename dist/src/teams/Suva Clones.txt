@@ -1,0 +1,16 @@
+name: Suva Clones
+region: american
+roster:
+Rome Fletcher
+Andy Sutton
+Dexter Oliver
+Forrest Stewart
+Cohen Moreno
+Collin Noel
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

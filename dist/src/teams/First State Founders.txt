@@ -1,0 +1,16 @@
+name: First State Founders
+region: american
+roster:
+Kartier Little
+Bodie Boone
+Eugene Ingram
+Bode Lee
+Adriel Wallace
+Kristopher Scott
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

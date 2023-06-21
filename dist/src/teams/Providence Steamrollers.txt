@@ -1,0 +1,16 @@
+name: Providence Steamrollers
+region: american
+roster:
+Emmett Camacho
+Denver Gardner
+Zaid Beach
+Louie Horn
+Micah Richard
+Khalil Lester
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

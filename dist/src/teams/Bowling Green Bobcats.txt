@@ -1,0 +1,16 @@
+name: Bowling Green Bobcats
+region: american
+roster:
+Jagger Hale
+Cayson Ray
+Marcel Moran
+Rio Obrien
+Kenji Whitaker
+Westley Hahn
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

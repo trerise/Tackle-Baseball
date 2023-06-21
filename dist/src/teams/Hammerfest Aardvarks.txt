@@ -1,0 +1,16 @@
+name: Hammerfest Aardvarks
+region: german
+roster:
+Ludolf Günzburg
+Jannik Buder
+Kurt Spiegelmann
+Kuno Fitkau
+Hellmuth Traeger
+Leopold Baumgartl
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: East Midlands Forest
+region: american
+roster:
+Kyson Puckett
+Noe Vincent
+Reign Estrada
+Ledger Savage
+Moises Foreman
+Henrik Petty
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

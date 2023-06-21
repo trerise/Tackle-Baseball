@@ -1,0 +1,16 @@
+name: Poprad Cats
+region: easterneuro
+roster:
+Fedot Rasskazov
+Kirill Dyatlov
+Vsevolod Shatskikh
+Avgustin Tsaryov
+Agapit Yegorov
+Yevgeny Golikov
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

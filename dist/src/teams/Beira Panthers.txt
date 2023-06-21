@@ -1,0 +1,16 @@
+name: Beira Panthers
+region: subsaharan
+roster:
+Dieumerci Mofu
+Fisayo Dauda
+Gcina Obote
+Sekou Kedir
+Lassana Makuto
+Senait Ackah
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

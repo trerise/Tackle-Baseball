@@ -1,0 +1,16 @@
+name: Spanish Flies
+region: hispanic
+roster:
+Domingo Castellano
+Dante Guajardo
+Liam Barela
+Tomas Reza
+Jhon Madrid
+Augusto Cadena
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

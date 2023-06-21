@@ -1,0 +1,16 @@
+name: Carson City Bengals
+region: american
+roster:
+Landen Weiss
+Luis Mccullough
+Dalton Nash
+Onyx Allison
+Taylor Pruitt
+Damir Palmer
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: North Tennessee Disciples of Satan
+region: american
+roster:
+Kevin Holcomb
+Barrett Patton
+Asa Daniel
+Grey Robles
+Karter Finch
+Zion Britt
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

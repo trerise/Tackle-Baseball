@@ -1,0 +1,16 @@
+name: Tar Heel State Delegates
+region: american
+roster:
+Rene Wiggins
+Gavin Roberson
+Leonidas Jenkins
+Cade Ferrell
+Everett Russell
+Idris Townsend
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

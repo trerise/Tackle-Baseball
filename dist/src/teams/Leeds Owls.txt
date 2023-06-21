@@ -1,0 +1,16 @@
+name: Leeds Owls
+region: american
+roster:
+Jensen Davis
+Kody Deleon
+Kole Colon
+Kylen Hull
+Porter Schwartz
+Hugo Solomon
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

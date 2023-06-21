@@ -1,0 +1,16 @@
+name: Tobruk Torque
+region: arabic
+roster:
+Fatin Al-Harthi
+Adham Dawoud
+Abd al-Uzza Al Hamdan
+Atiq Hajj
+Salman Sawalha
+Abd al-Razzaq Manqabadi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

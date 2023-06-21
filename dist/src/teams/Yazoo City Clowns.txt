@@ -1,0 +1,16 @@
+name: Yazoo City Clowns
+region: american
+roster:
+Brantley Cross
+Major Calhoun
+Houston Chase
+David Craft
+Kairo Glenn
+Koda Stein
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Virginia Mountaineers
+region: american
+roster:
+Kyle Harrison
+Chris Schroeder
+Jalen Grimes
+Randy Mclaughlin
+Maximilian Roberts
+Uriah Molina
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

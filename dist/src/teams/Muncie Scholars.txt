@@ -1,0 +1,16 @@
+name: Muncie Scholars
+region: american
+roster:
+Yousef Livingston
+Alijah Irwin
+Leif Chavez
+Watson Thompson
+Junior Franks
+Marcellus Calhoun
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

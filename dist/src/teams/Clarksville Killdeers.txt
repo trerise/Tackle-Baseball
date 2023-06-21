@@ -1,0 +1,16 @@
+name: Clarksville Killdeers
+region: american
+roster:
+Richard Talley
+Cesar Cameron
+Zaiden Webb
+Jesiah Cote
+Rafael Klein
+Dylan Charles
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

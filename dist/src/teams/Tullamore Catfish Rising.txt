@@ -1,0 +1,16 @@
+name: Tullamore Catfish Rising
+region: american
+roster:
+Ari Benson
+Carter Glover
+Marcel Rogers
+John Bradley
+Layne Short
+Bode Chapman
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

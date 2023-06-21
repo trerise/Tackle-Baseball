@@ -1,0 +1,16 @@
+name: Quebec City Chanticleers
+region: french
+roster:
+Pierre-Yves Boudet
+Robert Courbet
+Gerbaud Garnier
+Fleury Balzac
+Arnaud Brunet
+Bertrand Lafontaine
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

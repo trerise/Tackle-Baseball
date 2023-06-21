@@ -1,0 +1,16 @@
+name: Tuas Ligers
+region: american
+roster:
+Samuel Rivas
+Eric Porter
+Louis Clemons
+Thatcher Short
+Bradley Lawrence
+Alessandro Melton
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Kansas City Kansans
+region: american
+roster:
+Clay Holcomb
+Edison Robertson
+Hunter Simpson
+Layne Boone
+Marcos Vang
+Legacy Mcguire
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

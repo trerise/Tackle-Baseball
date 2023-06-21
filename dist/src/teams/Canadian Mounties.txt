@@ -1,0 +1,16 @@
+name: Canadian Mounties
+region: american
+roster:
+Anakin Good
+Rhys Santana
+Stephen Woodward
+Charlie Pollard
+Kartier Rosales
+Wilson Rollins
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

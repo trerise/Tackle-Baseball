@@ -1,0 +1,16 @@
+name: Covington Purple Sox
+region: american
+roster:
+Quinton Moody
+Enoch Farmer
+Shane Atkinson
+Kyro Gilliam
+Kristopher Beck
+Carson Mccormick
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

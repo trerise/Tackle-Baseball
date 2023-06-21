@@ -1,0 +1,16 @@
+name: Grand Forks Sunflakes
+region: american
+roster:
+Zayden Reese
+Leonardo Crane
+Kade Patrick
+Juan Griffith
+Jeremias Rice
+Chaim Mcguire
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

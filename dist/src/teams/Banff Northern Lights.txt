@@ -1,0 +1,16 @@
+name: Banff Northern Lights
+region: american
+roster:
+Cruz Mcfadden
+Orlando Clemons
+Avery Mckay
+Miles Manning
+Cal Hewitt
+Zakai Patton
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

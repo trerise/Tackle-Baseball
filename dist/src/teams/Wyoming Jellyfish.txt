@@ -1,0 +1,16 @@
+name: Wyoming Jellyfish
+region: american
+roster:
+Messiah Gonzalez
+Carl Shepherd
+Khalid Mayo
+Brennan Hurst
+Rome Doyle
+Robin Bartlett
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

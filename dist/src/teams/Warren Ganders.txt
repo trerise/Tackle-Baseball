@@ -1,0 +1,16 @@
+name: Warren Ganders
+region: american
+roster:
+Jaxton Tucker
+Jasiah Coleman
+Hayden Hatfield
+Cohen Rowland
+Jeremias Hinton
+Noel Sims
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

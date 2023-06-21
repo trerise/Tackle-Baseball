@@ -1,0 +1,16 @@
+name: Prince Albert Timber Wolves
+region: american
+roster:
+Azael Clark
+Salvador Livingston
+Granger Wade
+Karsyn Dudley
+Ozzy Browning
+Jakari Mccall
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

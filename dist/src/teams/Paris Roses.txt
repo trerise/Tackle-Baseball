@@ -1,0 +1,16 @@
+name: Paris Roses
+region: american
+roster:
+Samson Casey
+Cayden Valentine
+Jeremiah Ayers
+Miller Barton
+Jamir Rollins
+Robin Carver
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

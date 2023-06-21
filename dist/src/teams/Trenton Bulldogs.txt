@@ -1,0 +1,16 @@
+name: Trenton Bulldogs
+region: american
+roster:
+Jacob Gilbert
+Grady Gaines
+Flynn Davidson
+Jefferson Randall
+Aryan Hensley
+Milo Humphrey
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: New Mexico Enchantment
+region: american
+roster:
+Shepard Carver
+Princeton Carpenter
+Tucker Kirby
+Zain Dillon
+Ismael Arnold
+Alvin Richmond
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

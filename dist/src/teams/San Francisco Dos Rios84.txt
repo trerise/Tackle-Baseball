@@ -1,0 +1,16 @@
+name: San Francisco Dos Rios84
+region: hispanic
+roster:
+Fernando José Ruvalcaba
+Sergio Castanon
+Maximiliano Carrasquillo
+Apolinar Roybal
+Lorenzo Batista
+Jairo Bravo
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

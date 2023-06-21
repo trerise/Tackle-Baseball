@@ -1,0 +1,16 @@
+name: Lexington Bluegrass
+region: american
+roster:
+Logan Blankenship
+Peter Cooley
+Jakai Donaldson
+Fabian Shields
+Derek Conrad
+Palmer Carlson
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

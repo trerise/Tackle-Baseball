@@ -1,0 +1,16 @@
+name: Tall Grass Captains of Greater Chicago
+region: american
+roster:
+Riggs Porter
+Gael Sanchez
+Shepherd Moran
+Casen Castro
+Santino Mercer
+Gunner Garrison
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

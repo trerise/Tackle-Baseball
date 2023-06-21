@@ -1,0 +1,16 @@
+name: Laramie Trumpeters
+region: american
+roster:
+Landry Leblanc
+Edison Cooley
+Kyng Flynn
+Wylder Swanson
+Vicente Mitchell
+Soren Hurst
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

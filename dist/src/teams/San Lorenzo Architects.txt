@@ -1,0 +1,16 @@
+name: San Lorenzo Architects
+region: hispanic
+roster:
+Augusto Cardona
+Luciano Lazo
+Elpidio Ramires
+Benicio Lovato
+Diego Venegas
+Jorge Macias
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

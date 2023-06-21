@@ -1,0 +1,16 @@
+name: Swedish Arsenal
+region: scandinavian
+roster:
+Einar Jäderholm
+Geir Olofsson
+Tore Tingsten
+Petter Ohlson
+Rune Bäck
+Eiler Engström
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

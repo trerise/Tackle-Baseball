@@ -1,0 +1,16 @@
+name: San Juan Expos
+region: american
+roster:
+Miller Galloway
+Kyrie Craig
+Jude Kemp
+Bryce Battle
+Memphis Kim
+Matthew Mccarty
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

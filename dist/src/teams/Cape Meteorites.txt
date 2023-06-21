@@ -1,0 +1,16 @@
+name: Cape Meteorites
+region: american
+roster:
+Cayden Irwin
+Desmond Bruce
+Tanner Mitchell
+Dakota Sloan
+Wells Alford
+Zayden Lowe
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

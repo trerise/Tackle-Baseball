@@ -1,0 +1,16 @@
+name: Faro Monks
+region: scandinavian
+roster:
+Lars Brate
+Bror Wahlbom
+Ulf Odhner
+Axel Flygare
+Elias Tedenby
+Thorfinn Flygare
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Lodz Boats
+region: easterneuro
+roster:
+Vladilen Usatov
+Denis Sukhov
+Avvakum Baikin
+Agafonik Margelov
+Avksivy Karlovich
+Panteleimon Nevolin
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

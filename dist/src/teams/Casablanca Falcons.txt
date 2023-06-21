@@ -1,0 +1,16 @@
+name: Casablanca Falcons
+region: arabic
+roster:
+Ali Haidar Faizan
+Fawzi Nasser
+Sa'd al-Din Moussaoui
+Zubayr Sakka
+Ihsan Sehnaoui
+Ismat ad-Din Ebeid
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

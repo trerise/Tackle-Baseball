@@ -1,0 +1,16 @@
+name: Bozeman Fighting Bobcats
+region: american
+roster:
+Uriah Cook
+Cade Becker
+Knox Myers
+Tate Weiss
+Dax Bishop
+Franklin Wolfe
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

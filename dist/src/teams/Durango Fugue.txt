@@ -1,0 +1,16 @@
+name: Durango Fugue
+region: american
+roster:
+Houston Noel
+Larry Cummings
+Andrew Wiley
+Landen Greene
+Ricky Bowman
+Mylo Lancaster
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

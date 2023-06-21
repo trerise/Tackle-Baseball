@@ -1,0 +1,16 @@
+name: Lisbon Lions
+region: hispanic
+roster:
+Santino Benavidez
+Elpidio Zaragoza
+Julio Terrazas
+Leonardo Cadena
+Apolinar Villalobos
+Martin Mendoza
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Nouadhibou Gazelles
+region: arabic
+roster:
+Izzat Al-Farsi
+Sultan Shanab
+Wafi Harb
+Ishak Otayf
+Souhail Bin Laden
+Hasib Yacine
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

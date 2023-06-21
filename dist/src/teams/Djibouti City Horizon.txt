@@ -1,0 +1,16 @@
+name: Djibouti City Horizon
+region: arabic
+roster:
+Faiz Tarhouni
+Yadollah Naceri
+Abbad Nehme
+Latif Mathlouthi
+Bishara Al-Barazi
+Hidayatullah Kanso
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

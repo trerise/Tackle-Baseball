@@ -1,0 +1,16 @@
+name: Hoosiers
+region: american
+roster:
+Case Patrick
+Garrett Houston
+Dallas Hurst
+Roberto Burks
+Lennon Hoover
+Javier Sweeney
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

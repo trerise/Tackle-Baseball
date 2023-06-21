@@ -1,0 +1,16 @@
+name: Surabaya Sharks and Crocodiles
+region: american
+roster:
+Lukas Bentley
+Blaise Bates
+Brennan Livingston
+Corbin Rodriquez
+Ismael Alford
+Dorian Guy
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

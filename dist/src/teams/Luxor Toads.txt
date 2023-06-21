@@ -1,0 +1,16 @@
+name: Luxor Toads
+region: arabic
+roster:
+Zaim Hajji
+Ikramullah Badri
+Naqibullah Ahmad
+Hisham ud-Din El Taib
+Azizur Rahman Hamid
+Burhan al-Din Abiteboul
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

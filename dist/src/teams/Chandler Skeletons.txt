@@ -1,0 +1,16 @@
+name: Chandler Skeletons
+region: american
+roster:
+Jonas Hatfield
+Raymond Dalton
+James Watson
+Baylor Dunlap
+Kameron Brown
+Mekhi Potter
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

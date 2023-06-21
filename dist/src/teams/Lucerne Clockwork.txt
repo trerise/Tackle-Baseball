@@ -1,0 +1,16 @@
+name: Lucerne Clockwork
+region: german
+roster:
+Ingo Redecker
+Gilbert Rohwedder
+Ewald Zuckerberg
+Gerhold Brahms
+Hasso Degner
+Othmar Kurrat
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

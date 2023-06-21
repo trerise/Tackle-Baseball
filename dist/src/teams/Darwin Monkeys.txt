@@ -1,0 +1,16 @@
+name: Darwin Monkeys
+region: american
+roster:
+Giovanni Griffith
+Jude Lane
+Messiah Harmon
+Ronin Huber
+Krew Hall
+Zayd Barr
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

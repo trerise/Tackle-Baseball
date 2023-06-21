@@ -1,0 +1,16 @@
+name: Mexico La Raza
+region: american
+roster:
+Matthew Meyer
+Eliel Hammond
+Jamal Workman
+Phillip Reese
+Forrest Colon
+Harry Dale
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

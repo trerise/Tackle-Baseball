@@ -1,0 +1,16 @@
+name: Ankara Raging Turks
+region: arabic
+roster:
+Abd al-Shakur Karaki
+Nahyan Aboutaleb
+Sharaf al-Din Yahya
+Nazih Dawoud
+Rayan Yafai
+Waliullah Fahimi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

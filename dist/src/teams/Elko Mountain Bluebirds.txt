@@ -1,0 +1,16 @@
+name: Elko Mountain Bluebirds
+region: american
+roster:
+Scott Barry
+Dallas Lucas
+Cody Pena
+Kairo Lindsey
+Jett Monroe
+Carter Rivas
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

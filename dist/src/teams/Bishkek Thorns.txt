@@ -1,0 +1,16 @@
+name: Bishkek Thorns
+region: arabic
+roster:
+Abdul Hamid Hannachi
+Nadir Mashour
+Habib Al-Jazuli
+Abd al-Aziz Mahmud
+Hassim Bouhouche
+Faizullah Farooq
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Daejeon Korean Magpies
+region: korean
+roster:
+Ji Sung-woo
+Hwang Tae-woo
+Byeon Seung-jae
+Mo Jae-woong
+Heo Jin-woo
+In Dong-hyuk
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

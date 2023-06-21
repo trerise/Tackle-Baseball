@@ -1,0 +1,16 @@
+name: Beja Moors
+region: hispanic
+roster:
+Eduardo Tafoya
+Mario Zamora
+Nuño Regalado
+Emiliano Corona
+Damian Hall
+Ignacio Antunez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Buenos Aires Santos
+region: hispanic
+roster:
+Áxel Pelayo
+Pablo Murphy
+Abelardo Badillo
+Cristóbal Vela
+Arnaldo Alba
+Pedro Price
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

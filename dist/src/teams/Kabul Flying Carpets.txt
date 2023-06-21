@@ -1,0 +1,16 @@
+name: Kabul Flying Carpets
+region: arabic
+roster:
+Zahed Bashar
+Luay Shaath
+Ibn al-Qasim Jabir
+Jarrah Fadel
+Nazim Marwan
+Aden Atashi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

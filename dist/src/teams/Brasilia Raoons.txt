@@ -1,0 +1,16 @@
+name: Brasilia Raoons
+region: hispanic
+roster:
+David Araujo
+Alvaro Fisher
+Joaquín Feliciano
+Miguel Ángel Arellano
+Miguel Antunez
+Silvestre Martin
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

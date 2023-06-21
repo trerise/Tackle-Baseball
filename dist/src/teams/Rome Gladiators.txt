@@ -1,0 +1,16 @@
+name: Rome Gladiators
+region: italian
+roster:
+Adriano Alessandroni
+Nicolò Carlisi
+Oreste Cuomo
+Durante Sperduti
+Emidio Giacone
+Bruno Montevecchi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

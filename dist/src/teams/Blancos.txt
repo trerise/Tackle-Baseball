@@ -1,0 +1,16 @@
+name: Blancos
+region: hispanic
+roster:
+Izan Silva
+Efraín Cepeda
+Diego Cox
+Martin Fabian
+Gabriel Arreola
+Ciro Calvillo
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

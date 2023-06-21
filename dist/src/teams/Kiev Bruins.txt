@@ -1,0 +1,16 @@
+name: Kiev Bruins
+region: easterneuro
+roster:
+Yermolay Podshivalov
+Abamon Krivonosov
+Gennady Taimanov
+Ossip Zelensky
+Grischa Soskin
+Avdelay Shatskikh
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Sapporo Ham Fighters
+region: japanese
+roster:
+Morita Yasuharu
+Yamaguchi Naritaka
+Matsuda Kazuhiko
+Murata Toyokazu
+Yamamoto Heizō
+Matsuda Keiichirō
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

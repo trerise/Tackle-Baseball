@@ -1,0 +1,16 @@
+name: Ft. Lauderdale Fish
+region: american
+roster:
+Blaine Walls
+Dimitri Hopkins
+Edwin Cummings
+Dominik Lewis
+Bryan Albert
+Richard Watkins
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

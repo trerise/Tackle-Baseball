@@ -1,0 +1,16 @@
+name: Seoul Soldiers
+region: korean
+roster:
+Jin Jae-suk
+Kang Chul-soo
+Dongmun Hwangmok Myung-bak
+Baek Yong-gi
+Kam Young-gi
+Jeong Dong-won
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: London Acrobats
+region: american
+roster:
+Dariel Lloyd
+Azariah Snider
+Ian Duffy
+Ryland Wright
+Darian Cabrera
+Douglas Haley
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

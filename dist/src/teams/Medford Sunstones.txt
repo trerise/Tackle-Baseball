@@ -1,0 +1,16 @@
+name: Medford Sunstones
+region: american
+roster:
+Vincent Fuentes
+Bryan Eaton
+Trevor Barnett
+Justice Manning
+Paxton Arnold
+Mateo Solomon
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

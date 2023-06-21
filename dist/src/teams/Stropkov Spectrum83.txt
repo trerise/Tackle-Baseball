@@ -1,0 +1,16 @@
+name: Stropkov Spectrum83
+region: easterneuro
+roster:
+Avksenty Shchedrin
+Amvrosy Skalon
+Avdifaks Batalin
+Albert Rykov
+Avksenty Chanov
+Yakov Abroskin
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Dukhan Camels
+region: arabic
+roster:
+Shakeel Al-Tiflisi
+Ali Haidar Qureshi
+Kamal ad-Din Issawi
+Abdul Hakim Hamdouchi
+Rahmatullah Adwan
+Fayez Turki
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

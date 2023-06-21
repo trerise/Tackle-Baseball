@@ -1,0 +1,16 @@
+name: Al Rayyan Fierce Lions
+region: arabic
+roster:
+Hamdi Hindawi
+Riaz Taher
+Gulzar Barakat
+Wafi Nahdi
+Reza Mezali
+Hamid al-Din Ayad
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Casteggio Explorers
+region: italian
+roster:
+Severino Gioseffi
+Severino Passalacqua
+Ranieri Bongioanni
+Nazario  Zanoletti
+Mario De Filippis
+Antonello Mazzantini
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

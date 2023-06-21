@@ -1,0 +1,16 @@
+name: Mogadishu Gorillas
+region: subsaharan
+roster:
+Menzi Chiweshe
+Mpumi Zambo
+Makame Hlatshwayo
+Mathibeli Muvuni
+Kebby Mnguni
+Muideen Hatendi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

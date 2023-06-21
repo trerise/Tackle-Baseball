@@ -1,0 +1,16 @@
+name: Grants Pass Loggers
+region: american
+roster:
+Kalel Carson
+Damian Hayes
+Elias Puckett
+Mitchell Ballard
+Nicholas Hinton
+Sullivan Mckee
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

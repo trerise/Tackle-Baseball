@@ -1,0 +1,16 @@
+name: Hamburg Poltergeists
+region: german
+roster:
+Hermann Felder
+Bernd Fechner
+Klaus Kautz
+Fridolf Haarmann
+Bernd Bornemann
+Joachim-Friedrich Emick
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

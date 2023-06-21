@@ -1,0 +1,16 @@
+name: Eau Claire Crystal Sox
+region: american
+roster:
+Kairo Foster
+Logan Velez
+Ernesto Brooks
+Koda Workman
+Edgar Howe
+Colten Montoya
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

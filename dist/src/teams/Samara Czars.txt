@@ -1,0 +1,16 @@
+name: Samara Czars
+region: easterneuro
+roster:
+Aventin Boyarsky
+Dmitry Burmakin
+Dmitry Kasyanov
+Matvei Morozov
+Fyodor Ryzhkin
+Yaroslav Alekseyev
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

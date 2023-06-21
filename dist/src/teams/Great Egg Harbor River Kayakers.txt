@@ -1,0 +1,16 @@
+name: Great Egg Harbor River Kayakers
+region: american
+roster:
+Robert Roy
+Edison Sandoval
+Steven Wells
+Thaddeus Nolan
+Everett Jarvis
+Silas Saunders
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

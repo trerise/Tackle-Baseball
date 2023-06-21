@@ -1,0 +1,16 @@
+name: Ottawa Senators
+region: american
+roster:
+Devin Bryant
+Briggs Guzman
+Isaac Kinney
+Boone Padilla
+Ira Hebert
+Robert Chavez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

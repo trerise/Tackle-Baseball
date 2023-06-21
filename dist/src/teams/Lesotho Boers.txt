@@ -1,0 +1,16 @@
+name: Lesotho Boers
+region: subsaharan
+roster:
+Molade Ajibola
+Senait Driwaru
+Mesuli Mtawarira
+Nyota Laouali
+Alemseged Makonda
+Karefa Mendy
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Minsk White Bears
+region: scandinavian
+roster:
+Evald Cedergren
+Ebbe Simonsson
+Torbjörn Lindblom
+Teitur Wersäll
+Valter Törnros
+Ingmar Nykvist
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Rangpur Riders
+region: indian
+roster:
+Arun Ajayan
+Pramod Sapru
+Nilesh Wassan
+Keshav Banerjee
+Manabendra Shaurya
+Neeraj Labbay
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

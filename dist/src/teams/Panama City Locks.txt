@@ -1,0 +1,16 @@
+name: Panama City Locks
+region: hispanic
+roster:
+Lucas Briones
+Emiliano Rivera
+Reinaldo Barron
+Hugo Falcon
+Isaac Alegria
+Christian Gaspar
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

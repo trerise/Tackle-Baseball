@@ -1,0 +1,16 @@
+name: Henderson Dark Stars
+region: american
+roster:
+Avery Roy
+Ridge Sampson
+Erick King
+Conner Beck
+Beau Stanley
+Cillian Mueller
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

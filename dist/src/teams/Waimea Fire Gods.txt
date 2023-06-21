@@ -1,0 +1,16 @@
+name: Waimea Fire Gods
+region: american
+roster:
+Turner Barr
+Fernando Alvarado
+Jeffrey Howell
+Koa Humphrey
+Santana Goodwin
+Ramon Rice
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

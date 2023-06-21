@@ -1,0 +1,16 @@
+name: Torshavn Ogres
+region: scandinavian
+roster:
+Harald Mikaelsson
+Per Hjortsberg
+Baldur Brattström
+Henrik Nyquist
+Hilding Lundqvist
+Leif Wersäll
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

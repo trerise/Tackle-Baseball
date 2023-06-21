@@ -1,0 +1,16 @@
+name: Chivas Mexico
+region: hispanic
+roster:
+Felipe Crespo
+Samuel Magallanes
+Luca Gaona
+Juanma Saldivar
+José Manuel Tafoya
+Perez Armas
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

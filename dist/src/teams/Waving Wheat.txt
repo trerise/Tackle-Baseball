@@ -1,0 +1,16 @@
+name: Waving Wheat
+region: american
+roster:
+Jake Lester
+Karter Weber
+Cason Silva
+Davion Downs
+River Robinson
+Aron Donovan
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

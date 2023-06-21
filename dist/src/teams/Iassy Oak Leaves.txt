@@ -1,0 +1,16 @@
+name: Iassy Oak Leaves
+region: easterneuro
+roster:
+Timur Tsallagov
+Jaroslav Chudin
+Yury Sarnova
+Avel Venediktov
+Zakhar Pershin
+Abid Karetnikov
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

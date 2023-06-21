@@ -1,0 +1,16 @@
+name: Kalamata Green Birds
+region: greek
+roster:
+Matthaios Papadiamantopoulos
+Theodoros Pavlou
+Alexius Alexiou
+Sotirios Markides
+Thaddeus Schinas
+Marcos Papandreou
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

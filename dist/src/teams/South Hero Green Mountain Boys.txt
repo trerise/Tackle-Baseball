@@ -1,0 +1,16 @@
+name: South Hero Green Mountain Boys
+region: american
+roster:
+Ayaan Harrison
+Kylan Griffith
+Hamza Salazar
+Ishaan Buck
+Cohen Gillespie
+Genesis Morrow
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Riyadh White Lions
+region: arabic
+roster:
+Anwaruddin Basri
+Abdolreza Qubaisi
+Abdul Latif Al Tunaij
+Awad Adib
+Abd al-Nur Tohme
+Junayd Itani
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

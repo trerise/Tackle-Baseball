@@ -1,0 +1,16 @@
+name: Rabat Rabbits
+region: arabic
+roster:
+Wadih Fitoussi
+Izzatullah Talal
+Zafar Bukhari
+Ammar Hegazi
+Mizanur Al-Jurjani
+Saʽid Hawass
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

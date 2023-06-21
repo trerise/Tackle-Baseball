@@ -1,0 +1,16 @@
+name: Montenegro Ravens
+region: easterneuro
+roster:
+Alexander Panov
+Matvei Shvedov
+Pavel Adamchik
+Avrely Alexandrov
+Zinovy Polukhin
+Jaroslav Yesipchuk
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

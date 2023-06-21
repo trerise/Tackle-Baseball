@@ -1,0 +1,16 @@
+name: Honolulu Blue Waters
+region: american
+roster:
+Elijah Chaney
+Cal Bartlett
+Kingston Navarro
+Kylo Riggs
+Michael Franklin
+Gian Faulkner
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

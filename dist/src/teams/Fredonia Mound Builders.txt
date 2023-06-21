@@ -1,0 +1,16 @@
+name: Fredonia Mound Builders
+region: american
+roster:
+Axl Eaton
+Knox Holmes
+Dimitri Jenkins
+Roland Gross
+Ronin Jimenez
+Cade Mccullough
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

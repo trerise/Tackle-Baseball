@@ -1,0 +1,16 @@
+name: Moundou Gala
+region: subsaharan
+roster:
+Eberechi Obote
+Fisayo Kisekka
+Aigbe Guehi
+Nnaemeka Gbala
+Kodwo KaMalandela
+Fisayo Souna
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

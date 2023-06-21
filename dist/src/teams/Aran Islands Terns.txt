@@ -1,0 +1,16 @@
+name: Aran Islands Terns
+region: american
+roster:
+Zyon Oliver
+Princeton Sharpe
+Tomas May
+Jasper Cox
+Clyde Watts
+Leandro Peck
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

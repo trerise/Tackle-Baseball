@@ -1,0 +1,16 @@
+name: Gdansk Maniax
+region: easterneuro
+roster:
+Roman Bychkov
+Daniel Protopopov
+Aventin Zingarevich
+Nikita Zhukov
+Arkady Chirkin
+Nikola Osipov
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

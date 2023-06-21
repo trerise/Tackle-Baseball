@@ -1,0 +1,16 @@
+name: Kazan White Stars
+region: easterneuro
+roster:
+Tikhon Malkov
+Gerasim Dobronravov
+Abelyar Tomashevich
+Trofim Kolosov
+Avip Zyuzin
+Aventin Menshikov
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

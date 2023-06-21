@@ -1,0 +1,16 @@
+name: Guangzhou Five Goats
+region: chinese
+roster:
+Ho Qi
+Wèi Foo Jun
+Yáng Wenyan
+Lóng Ho Kang
+Duàn Li Chi
+Lài Hou
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

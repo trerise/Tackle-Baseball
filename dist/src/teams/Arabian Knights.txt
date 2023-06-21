@@ -1,0 +1,16 @@
+name: Arabian Knights
+region: arabic
+roster:
+Rashid Hijazi
+Fazl ur Rahman As-Suwaidi
+Abbas Rauf
+Kashif Abouzeid
+Souhail Mahmoody
+Aiman Atwan
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

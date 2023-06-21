@@ -1,0 +1,16 @@
+name: Florence Swamp Foxes
+region: american
+roster:
+Remy Warren
+Davis Forbes
+Simon Guthrie
+Conner Fulton
+Azariah Dudley
+Atharv Collins
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

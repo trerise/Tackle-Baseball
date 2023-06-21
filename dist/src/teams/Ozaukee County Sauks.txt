@@ -1,0 +1,16 @@
+name: Ozaukee County Sauks
+region: american
+roster:
+Layne Moreno
+Deacon Foster
+Karson Vega
+Franklin Newman
+Sage Carrillo
+Mohamed Dunn
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

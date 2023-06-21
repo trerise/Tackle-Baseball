@@ -1,0 +1,16 @@
+name: India Vishnu
+region: indian
+roster:
+Abhay Bhuva
+Krishnadev Kakkar
+Pratapsinh Adyanthaya
+Ajay Alagh
+Dhinakaran Nandamuri
+Harish Varadhan
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Sparks Fly
+region: american
+roster:
+Marcel Carson
+Eduardo Jacobs
+Phoenix Garcia
+Kristopher Vega
+Nikolas Bryan
+Johan Franks
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

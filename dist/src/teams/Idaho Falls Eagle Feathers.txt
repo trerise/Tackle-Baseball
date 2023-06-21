@@ -1,0 +1,16 @@
+name: Idaho Falls Eagle Feathers
+region: american
+roster:
+Gage Lawson
+Aidan Herrera
+Reese Stone
+Yusuf Leach
+Riley Sloan
+Tripp Booker
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

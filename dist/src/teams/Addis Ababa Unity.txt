@@ -1,0 +1,16 @@
+name: Addis Ababa Unity
+region: subsaharan
+roster:
+Lebogang Jawara
+Thando Lobbo
+Kalidou Diabaté
+Mwenda Uzoh
+Abanda Dembélé
+Dieumerci Rogombé
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

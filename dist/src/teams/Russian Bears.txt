@@ -1,0 +1,16 @@
+name: Russian Bears
+region: easterneuro
+roster:
+Agafodor Gureyev
+Valentin Zharov
+Andrei Bakatin
+Zinovy Baikin
+Osip Kalinskaya
+Afanasy Kruglov
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

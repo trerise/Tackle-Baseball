@@ -1,0 +1,16 @@
+name: West Sound Expos
+region: american
+roster:
+Ayden Buckner
+Andrew Madden
+Dilan Chang
+Myles Moran
+Niklaus Booth
+Jett Spears
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

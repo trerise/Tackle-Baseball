@@ -1,0 +1,16 @@
+name: Beaufort Auks
+region: american
+roster:
+Rafael Byrd
+Roger Sosa
+Avi Vang
+Kody Abbott
+Ryker Downs
+Francis Nielsen
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

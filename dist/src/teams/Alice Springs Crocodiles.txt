@@ -1,0 +1,16 @@
+name: Alice Springs Crocodiles
+region: american
+roster:
+Kolton Levy
+Porter Ellison
+Gatlin Key
+Emiliano Merritt
+Gage Mclaughlin
+Marcos Craft
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

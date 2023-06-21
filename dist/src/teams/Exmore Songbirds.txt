@@ -1,0 +1,16 @@
+name: Exmore Songbirds
+region: american
+roster:
+Randy Knowles
+Rhys Nicholson
+Raiden Jefferson
+Miller Preston
+Owen Richardson
+Erick Rocha
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

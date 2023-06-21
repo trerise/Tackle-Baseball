@@ -1,0 +1,16 @@
+name: Oshkosh Badgers
+region: american
+roster:
+Bodhi Espinoza
+Kai Herring
+Luciano Short
+Brian Hines
+Louis Higgins
+Charlie Ayala
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

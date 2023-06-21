@@ -1,0 +1,16 @@
+name: Al Ain Garden Vipers
+region: arabic
+roster:
+Kadri Karaki
+Abd al-Jalil Farhi
+Halim Fakhr
+Yusha Miftah
+Saleh Barzegar
+Imad al-Din Hawass
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Murfreesboro Blue Raiders
+region: american
+roster:
+Granger Phelps
+Jesse Reyes
+Keegan Savage
+Porter Brock
+Keegan Wood
+Patrick Carney
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any
