@@ -1,0 +1,16 @@
+name: Iowa City Oaks
+region: american
+roster:
+Julio Odom
+Tommy Carver
+Kyson Beach
+Thiago Logan
+Rey Chandler
+Matias Trujillo
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

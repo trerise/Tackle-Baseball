@@ -1,0 +1,16 @@
+name: Kobenhavn City Lions
+region: scandinavian
+roster:
+Bjorn Hedman
+Thorfinn Birgersson
+Orvar Thörnell
+Vilhelm Jernberg
+Rune Åkermark
+Bjørk Thornquist
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

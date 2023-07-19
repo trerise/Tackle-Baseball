@@ -1,0 +1,16 @@
+name: Dallas Ropers
+region: american
+roster:
+Jeremias Johnston
+Bennett Mitchell
+Pierce Johns
+Maurice Whitfield
+Jose Nash
+Kevin Lloyd
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Nogales Heros
+region: american
+roster:
+Nicholas Huber
+Bellamy Mcintosh
+Nico Reilly
+Ray Rodgers
+Armani Whitfield
+Nathaniel Fulton
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

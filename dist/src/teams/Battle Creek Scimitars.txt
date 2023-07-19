@@ -1,0 +1,16 @@
+name: Battle Creek Scimitars
+region: american
+roster:
+Emmanuel Jensen
+Steven Armstrong
+Bjorn Cunningham
+Gideon Marsh
+Fred Hendricks
+Gianni Burke
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

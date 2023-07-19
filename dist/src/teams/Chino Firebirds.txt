@@ -1,0 +1,16 @@
+name: Chino Firebirds
+region: american
+roster:
+Bodie Golden
+Ray Langley
+Alejandro Mcbride
+Jayson Hinton
+Ismael Figueroa
+Robin Durham
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

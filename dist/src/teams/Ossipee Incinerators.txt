@@ -1,0 +1,16 @@
+name: Ossipee Incinerators
+region: american
+roster:
+Stephen Wade
+Camilo Marks
+Xavier Hughes
+Ariel Beasley
+Brodie Mccray
+Hector Chan
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

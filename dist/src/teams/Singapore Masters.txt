@@ -1,0 +1,16 @@
+name: Singapore Masters
+region: chinese
+roster:
+Zhèng Tián Cheung
+Shào Jian
+Hǎo Duyi
+Chau Weizhe
+Xú Da
+Yì Jinhai
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

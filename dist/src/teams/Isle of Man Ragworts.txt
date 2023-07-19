@@ -1,0 +1,16 @@
+name: Isle of Man Ragworts
+region: american
+roster:
+Salem Myers
+Brady Kidd
+Cash Stanley
+Lee Irwin
+Kaiser Oneil
+Rocky Branch
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

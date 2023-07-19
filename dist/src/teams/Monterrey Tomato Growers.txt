@@ -1,0 +1,16 @@
+name: Monterrey Tomato Growers
+region: hispanic
+roster:
+Juan José Alvarado
+Edgardo Nieves
+Samuel Cruz
+Matthew Marroquin
+Nacho Razo
+Marcelo Enriquez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

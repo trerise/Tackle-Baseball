@@ -1,0 +1,16 @@
+name: Mango Trees
+region: arabic
+roster:
+Ridwan Al-Jurjani
+Sanaullah Naqbiyin
+Asem Gharsallah
+Akif Bensaïd
+Nawaz Raofat
+Daud Baha
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

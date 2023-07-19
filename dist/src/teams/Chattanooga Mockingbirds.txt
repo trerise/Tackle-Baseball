@@ -1,0 +1,16 @@
+name: Chattanooga Mockingbirds
+region: american
+roster:
+Brody Lee
+Zayn Clay
+Genesis Flores
+Brooks Goodwin
+Karter Jacobs
+King Mcdonald
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

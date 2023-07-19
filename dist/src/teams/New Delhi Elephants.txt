@@ -1,0 +1,16 @@
+name: New Delhi Elephants
+region: indian
+roster:
+Neeraj Koneru
+Ira Mohan
+Deepak Khan
+Amarsinh Rajanala
+Karthik Bishnoi
+Mahendra Panikkar
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Hopkinsville Christians
+region: american
+roster:
+Ridge Brown
+Apollo Wooten
+Clay Galloway
+Tripp Fleming
+Henrik Wheeler
+Nehemiah Haynes
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

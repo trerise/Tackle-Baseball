@@ -1,0 +1,16 @@
+name: Austin Violet Crowns
+region: american
+roster:
+Cody Middleton
+Boden Murray
+Emilio Church
+Chase Nieves
+Nicholas Mccall
+Kase Wheeler
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

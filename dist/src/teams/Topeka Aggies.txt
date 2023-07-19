@@ -1,0 +1,16 @@
+name: Topeka Aggies
+region: american
+roster:
+Colson Nicholson
+Benicio Reed
+Timothy Hodges
+Jamari Bender
+Emery Deleon
+Victor Santiago
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

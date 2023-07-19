@@ -1,0 +1,16 @@
+name: 99ers
+region: german
+roster:
+Ignaz Selz
+Leopold Rodenberg
+Oswald Brennecke
+Marcus Siegl
+Heribert Homeyer
+Samuel Cossmann
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

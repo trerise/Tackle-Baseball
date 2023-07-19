@@ -1,0 +1,16 @@
+name: Las Vegas Engineers
+region: american
+roster:
+Ray Wilder
+Adrien Holland
+Bjorn Hendricks
+Knox Leach
+Eithan Brock
+Jerry Owens
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

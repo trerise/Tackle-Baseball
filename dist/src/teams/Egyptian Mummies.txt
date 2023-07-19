@@ -1,0 +1,16 @@
+name: Egyptian Mummies
+region: arabic
+roster:
+Ghulam Haider Nafti
+Abdul Rashid Hani
+Fathallah Hasnawi
+Arif Madathil
+Isa Elyounoussi
+Moeen Badawi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

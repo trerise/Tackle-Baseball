@@ -1,0 +1,16 @@
+name: Abu Dhabi Deer
+region: arabic
+roster:
+Bakir Bensoussan
+Sahil Bakkal
+Qasim Al-Tiflisi
+Shafiq Sakka
+Shakeel Allaf
+Shujauddin Dawoud
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

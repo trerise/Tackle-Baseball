@@ -1,0 +1,16 @@
+name: Wuhan Chickens
+region: chinese
+roster:
+Yiu Kong
+Xīn Hao
+Shum Gui
+Yip Gan
+Yu Chaun
+Zhào Gen
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

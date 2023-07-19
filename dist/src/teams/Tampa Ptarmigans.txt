@@ -1,0 +1,16 @@
+name: Tampa Ptarmigans
+region: american
+roster:
+Atlas Tillman
+Miles Pittman
+Azariah Goff
+Cohen Mckinney
+Paxton Mccray
+Camden Boone
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

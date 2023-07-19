@@ -1,0 +1,16 @@
+name: Lancaster Wild Jets
+region: american
+roster:
+Jaylen Cox
+Avi England
+Tommy Bird
+Fabian Fulton
+Kingsley Delgado
+Ridge Atkins
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

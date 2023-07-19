@@ -1,0 +1,16 @@
+name: Southampton Penguins
+region: german
+roster:
+Klaus-Peter Sietas
+Berengar Achenbach
+Levin Hettich
+Kalli Weissert
+Peter Schönfinkel
+Malte Prill
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

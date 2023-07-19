@@ -1,0 +1,16 @@
+name: Novosibirsk Pilots
+region: easterneuro
+roster:
+Boris Yefimov
+Avda Zingarevich
+Prokhor Azimov
+David Gelfand
+Valery Cherednik
+Artyom Davidovich
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

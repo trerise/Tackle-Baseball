@@ -1,0 +1,16 @@
+name: Kathmandu Yetis
+region: arabic
+roster:
+Anas Gazzah
+Faisal Atiq
+Shawki Harb
+Iskandar Ubayd Allah
+Idris Mukhtar
+Khamis Dehlavi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Lusaka Amphibians
+region: subsaharan
+roster:
+Tiyamiyu Bakaluba
+Chumani Teklehaimanot
+Gcina Ssentamu
+Mrisho Ssentamu
+Mbungu Kamwendo
+Senait Baruti
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

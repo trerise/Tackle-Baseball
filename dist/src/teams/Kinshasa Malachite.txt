@@ -1,0 +1,16 @@
+name: Kinshasa Malachite
+region: arabic
+roster:
+Salman Kassab
+Adir Memmich
+Ismail Issawi
+Abd al-Qayyum Faizan
+Abd al-Raqib Afif
+Bagher Burhan
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

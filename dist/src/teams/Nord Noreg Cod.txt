@@ -1,0 +1,16 @@
+name: Nord Noreg Cod
+region: scandinavian
+roster:
+Henrik Olderman
+Evald Ottosson
+Vagn Hwasser
+Harald Lundvik
+Asser Holmdahl
+Orvar Svens
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: San Clemente Roadrunners
+region: american
+roster:
+Dennis Burton
+Kade Young
+Luciano Stuart
+Marcel Lewis
+Hunter Myers
+Ruben Collier
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

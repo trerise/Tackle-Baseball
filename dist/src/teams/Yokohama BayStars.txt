@@ -1,0 +1,16 @@
+name: Yokohama BayStars
+region: japanese
+roster:
+Chiba Nariaki
+Fujihara Yoshihide
+Nakamura Tadafumi
+Aoki Suehiro
+Nakashima Kaneyoshi
+Matsumoto Kogorō
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

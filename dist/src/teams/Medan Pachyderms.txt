@@ -1,0 +1,16 @@
+name: Medan Pachyderms
+region: arabic
+roster:
+Munir Khalef
+Nuri Nouraei
+Abdullah Belkacem
+Naji Zeidan
+Zidane Turki
+Djamal Himsi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

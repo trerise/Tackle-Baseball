@@ -1,0 +1,16 @@
+name: Kyrgyzstan Fez
+region: easterneuro
+roster:
+Averky Bekhterev
+Ivan Likhachyov
+Avenir Penkin
+Agapion Karetnikov
+Avdon Umansky
+Maxim Balakhnin
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

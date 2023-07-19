@@ -1,0 +1,16 @@
+name: Billings Road Warriors
+region: american
+roster:
+Calum Sosa
+Atticus Hart
+Douglas Shelton
+Aziel Winters
+Aryan Vaughn
+Yousef Carroll
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

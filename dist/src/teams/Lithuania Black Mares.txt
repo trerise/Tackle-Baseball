@@ -1,0 +1,16 @@
+name: Lithuania Black Mares
+region: easterneuro
+roster:
+Abataly Deriglazov
+Kolya Nosik
+Matvei Aleinikov
+Avdakt Abakumov
+Avdiyes Asanbayev
+Veniamin Zaytsev
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

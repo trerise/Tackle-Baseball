@@ -1,0 +1,16 @@
+name: Erie Creeps
+region: american
+roster:
+Junior Underwood
+Warren Rowland
+Zain Russo
+Russell Harris
+Aidan Chen
+Houston Wilder
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

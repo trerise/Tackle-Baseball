@@ -1,0 +1,16 @@
+name: Baja California Surf
+region: hispanic
+roster:
+Diego Mireles
+Fernando José Navarrete
+Lucas Perea
+Manrique Riojas
+Guido Diaz
+José Ángel Magana
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

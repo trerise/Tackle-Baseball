@@ -1,0 +1,16 @@
+name: Manhattan Skyscrapers
+region: american
+roster:
+Casen Wolf
+Wes Rogers
+Micah Knight
+Izaiah Nguyen
+Colby Castillo
+Jase Rocha
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

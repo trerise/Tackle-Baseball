@@ -1,0 +1,16 @@
+name: Choctaw Nation
+region: american
+roster:
+Aries Barber
+Kaden Moran
+Hugo Estes
+Maximiliano Gibbs
+Aydin Mcguire
+Leonard Faulkner
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

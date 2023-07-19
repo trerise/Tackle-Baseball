@@ -1,0 +1,16 @@
+name: Port Angeles Kingfishers
+region: american
+roster:
+Jose Osborne
+Julien Navarro
+Mauricio Church
+Mekhi Greene
+Loyal Farley
+Benjamin Thompson
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

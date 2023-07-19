@@ -1,0 +1,16 @@
+name: Gods of Olympia
+region: american
+roster:
+Remy Lancaster
+Alijah Harding
+Eli Clayton
+Holden Boyle
+Ephraim Montoya
+Adan Stewart
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

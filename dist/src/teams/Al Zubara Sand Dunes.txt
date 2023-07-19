@@ -1,0 +1,16 @@
+name: Al Zubara Sand Dunes
+region: arabic
+roster:
+Abdi Najdi
+Murad Dehlavi
+Ata-ur-Rahman Tharwat
+Sadik Maleh
+Anisul Huq Lamouchi
+Nawaz Abdi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

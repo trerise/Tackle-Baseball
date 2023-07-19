@@ -1,0 +1,16 @@
+name: Old Gold and Blue
+region: american
+roster:
+Luka Parks
+Ricardo Woodward
+Colter Cortez
+Anders Miranda
+Azrael Daniel
+Mylo Chandler
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

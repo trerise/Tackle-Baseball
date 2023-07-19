@@ -1,0 +1,16 @@
+name: Hazard Dukes
+region: american
+roster:
+Reid Nixon
+Gabriel Atkinson
+Mustafa Whitney
+Leonelo Gonzalez
+Gavin Mcknight
+Enrique Chang
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

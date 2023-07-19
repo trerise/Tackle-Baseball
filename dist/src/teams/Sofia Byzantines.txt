@@ -1,0 +1,16 @@
+name: Sofia Byzantines
+region: greek
+roster:
+Paris Christidou
+Andreas Fotilas
+Vissarion Kalymnios
+Charis Panagi
+Ari Goulandris
+Eustratius Arsenis
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Brooklyn Dodgers
+region: american
+roster:
+Wayne Simmons
+Rowan Simpson
+Conrad Mack
+Jon Mathis
+Jeffrey Carney
+Mack Wilson
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

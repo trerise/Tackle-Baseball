@@ -1,0 +1,16 @@
+name: Lake Huron Whitetails
+region: american
+roster:
+Fletcher Hunt
+Grey Coleman
+Leonard Fleming
+Kyrie Gardner
+Wesley Atkins
+Landry Wiggins
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

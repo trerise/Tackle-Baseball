@@ -1,0 +1,16 @@
+name: Oregon Cataphracts
+region: american
+roster:
+Beckett Finch
+Raul Park
+Franklin Caldwell
+Ian Greer
+Josue Cline
+Ahmir Glenn
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

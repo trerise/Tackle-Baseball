@@ -1,0 +1,16 @@
+name: Kingston Stingrays
+region: american
+roster:
+Azael Pierce
+Felipe Mcbride
+Lachlan Ayala
+Graysen Mcbride
+Quentin Figueroa
+Everett Norris
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

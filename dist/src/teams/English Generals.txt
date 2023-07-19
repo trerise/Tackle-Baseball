@@ -1,0 +1,16 @@
+name: English Generals
+region: american
+roster:
+Arjun Hopkins
+Gavin Ramos
+Rio Nunez
+Ty Zimmerman
+Ephraim Chan
+Madden Kim
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

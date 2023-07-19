@@ -1,0 +1,16 @@
+name: Lewiston Explorers
+region: american
+roster:
+Lee Campos
+Yaakov Charles
+Emmanuel Woodward
+Emmett Jordan
+Manuel Fowler
+Boone Wallace
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

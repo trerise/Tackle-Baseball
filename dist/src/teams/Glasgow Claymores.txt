@@ -1,0 +1,16 @@
+name: Glasgow Claymores
+region: american
+roster:
+Jadiel Massey
+Spencer Ramos
+Junior Rose
+David Sharpe
+Riley Black
+Major Hunt
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

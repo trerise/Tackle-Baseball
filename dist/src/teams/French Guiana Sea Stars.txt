@@ -1,0 +1,16 @@
+name: French Guiana Sea Stars
+region: american
+roster:
+Hamza Aguilar
+Marshall Logan
+Judson Watkins
+Rayan Lloyd
+Graysen Chavez
+Benson Mullen
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

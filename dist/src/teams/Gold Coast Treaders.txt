@@ -1,0 +1,16 @@
+name: Gold Coast Treaders
+region: american
+roster:
+Kaysen Chambers
+John Hodges
+Franco Arnold
+Myles Foreman
+Leif Moon
+Jacob Haynes
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

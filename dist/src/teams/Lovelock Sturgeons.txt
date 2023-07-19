@@ -1,0 +1,16 @@
+name: Lovelock Sturgeons
+region: american
+roster:
+Huxley Page
+Aron Petty
+Hudson Ball
+Johnny Kirkland
+Derrick Peck
+Zane Cotton
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

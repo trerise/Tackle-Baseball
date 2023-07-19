@@ -1,0 +1,16 @@
+name: Bismarck Nokota
+region: american
+roster:
+Finley Kirkland
+Ethan Leonard
+Bruce Gregory
+Bowen Farley
+Briggs Benjamin
+Melvin Hamilton
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

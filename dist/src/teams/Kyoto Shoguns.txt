@@ -1,0 +1,16 @@
+name: Kyoto Shoguns
+region: japanese
+roster:
+Ueta Kanta
+Ishikawa Yoshimitsu
+Katō Kai
+Watanabe Yōhei
+Shimizu Kunihisa
+Takaki Motoki
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

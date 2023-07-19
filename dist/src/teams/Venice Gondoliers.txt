@@ -1,0 +1,16 @@
+name: Venice Gondoliers
+region: italian
+roster:
+Simone Bolelli
+Patrizio Accorsi
+Gianantonio Milan
+Fabrizio Ghelli
+Fedele Guidotti
+Ubaldo Ferrucci
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

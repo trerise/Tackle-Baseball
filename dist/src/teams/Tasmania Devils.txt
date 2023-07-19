@@ -1,0 +1,16 @@
+name: Tasmania Devils
+region: american
+roster:
+Ira Walls
+Keith Buck
+Franco Tillman
+Ray Cummings
+Mac Mason
+Finley Lindsay
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

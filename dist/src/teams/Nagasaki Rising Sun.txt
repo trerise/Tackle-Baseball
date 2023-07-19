@@ -1,0 +1,16 @@
+name: Nagasaki Rising Sun
+region: japanese
+roster:
+Imai Sadazane
+Yamashita Toyoaki
+Takahashi Shōichirō
+Sasaki Byakuya
+Shimada Yoshiie
+Hara Shōhei
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

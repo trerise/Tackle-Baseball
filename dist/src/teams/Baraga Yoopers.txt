@@ -1,0 +1,16 @@
+name: Baraga Yoopers
+region: american
+roster:
+Karson Harvey
+Moses Sykes
+Kareem Gaines
+Quinn Jordan
+Gary Blair
+Ray Randolph
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

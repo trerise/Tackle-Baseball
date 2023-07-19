@@ -1,0 +1,16 @@
+name: Timbuktu Scholars
+region: arabic
+roster:
+Hisham ud-Din Talhouni
+Latif Kassab
+Anwar ul Haq Handal
+Imed Ziad
+Hanna Jaziri
+Nassif Al-Hazmi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

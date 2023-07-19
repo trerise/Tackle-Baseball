@@ -1,0 +1,16 @@
+name: London Minstrels
+region: american
+roster:
+Sean Carpenter
+Barrett Anthony
+Hayden Deleon
+Pierce Golden
+Kendrick Perry
+Myles Bates
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

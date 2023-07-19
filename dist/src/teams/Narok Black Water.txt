@@ -1,0 +1,16 @@
+name: Narok Black Water
+region: arabic
+roster:
+Izz al-Din Al-Jazuli
+Munif Jalayer
+Shakeel Belkadi
+Uday Tamim
+Amir Khayat
+Zubayr Chaibi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

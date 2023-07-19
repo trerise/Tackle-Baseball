@@ -1,0 +1,16 @@
+name: Groningen Tardigrades
+region: german
+roster:
+Harold Hamburg
+Michael Hülsen
+Martin Braunstein
+Jacob Hasselhoff
+Garibald Aschenborn
+Timo Wasserzug
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

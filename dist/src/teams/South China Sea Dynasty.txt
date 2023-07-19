@@ -1,0 +1,16 @@
+name: South China Sea Dynasty
+region: chinese
+roster:
+Xiàng Lie jie
+Mǎ Qiao
+Pun Yip Qiao
+Luó Yang
+Yip Zhōng Wenyan
+Léi Manchu
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

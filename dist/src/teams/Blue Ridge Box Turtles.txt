@@ -1,0 +1,16 @@
+name: Blue Ridge Box Turtles
+region: american
+roster:
+Blaze Perkins
+Barrett Wise
+Zachary Kramer
+Finnley Holcomb
+Damir Knight
+Zyair Logan
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

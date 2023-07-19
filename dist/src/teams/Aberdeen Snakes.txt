@@ -1,0 +1,16 @@
+name: Aberdeen Snakes
+region: american
+roster:
+Elon Long
+Asher Levy
+Leandro Calhoun
+Adam Callahan
+Chaim Goodman
+Trey Conway
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

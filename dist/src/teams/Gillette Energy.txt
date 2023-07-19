@@ -1,0 +1,16 @@
+name: Gillette Energy
+region: american
+roster:
+Kyree Hamilton
+Bishop Johns
+Leonel Gonzalez
+Ayan Lott
+Amir Wynn
+Caiden Deleon
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

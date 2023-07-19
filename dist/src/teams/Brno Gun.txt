@@ -1,0 +1,16 @@
+name: Brno Gun
+region: scandinavian
+roster:
+Ejnar Billberg
+Ivar Magnusson
+Bjarni Hagman
+Mats Hasselgren
+Matias Blomquist
+Joakim Skog
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

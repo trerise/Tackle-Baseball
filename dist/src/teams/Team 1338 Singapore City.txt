@@ -1,0 +1,16 @@
+name: Team 1338 Singapore City
+region: american
+roster:
+Jax Rivas
+Dennis Rocha
+Westley Atkinson
+Nixon Garrett
+Deandre Lott
+Jamison Payne
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

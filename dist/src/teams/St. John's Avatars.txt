@@ -1,0 +1,16 @@
+name: St. John's Avatars
+region: american
+roster:
+Alistair Deleon
+Karter Bauer
+Deandre Payne
+Kamdyn Powell
+Kason Weeks
+Kieran Shepherd
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

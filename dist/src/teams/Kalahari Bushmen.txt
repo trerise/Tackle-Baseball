@@ -1,0 +1,16 @@
+name: Kalahari Bushmen
+region: arabic
+roster:
+Khamis Habus
+Rashid Soueid
+Barkat Ali Zeidan
+Zakariya Murad
+Ka'b Aamer
+Samer Arazi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

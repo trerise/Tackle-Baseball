@@ -1,0 +1,16 @@
+name: Thunder Bay Thunderbirds
+region: american
+roster:
+Saint Santos
+Asa Woodward
+Joshua Wyatt
+Makai Valdez
+Alijah Mendoza
+Aaron Barton
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

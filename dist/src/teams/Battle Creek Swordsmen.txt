@@ -1,0 +1,16 @@
+name: Battle Creek Swordsmen
+region: american
+roster:
+Jasper Logan
+Alijah Vazquez
+Justice Boyd
+Wells Morrison
+Bowen Norton
+Enoch Simon
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

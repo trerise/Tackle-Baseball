@@ -1,0 +1,16 @@
+name: Beijing Dragons
+region: chinese
+roster:
+Luk Bengt
+Sūn Xue
+Ng Dingbang
+Chow Qiu
+Yì Xuē Da
+Zhōng Qiang
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

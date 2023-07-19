@@ -1,0 +1,16 @@
+name: Boulder Manticores
+region: american
+roster:
+Landon Quinn
+Pedro Lopez
+Samson Love
+Austin Huber
+Jakobe Bradford
+Shepard Dean
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

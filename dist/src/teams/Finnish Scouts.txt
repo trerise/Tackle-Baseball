@@ -1,0 +1,16 @@
+name: Finnish Scouts
+region: scandinavian
+roster:
+Kai Vikström
+Anders Liljeström
+Anders Juhlin
+Arne Brattström
+Jakob Paulsson
+Alfred Sjöqvist
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

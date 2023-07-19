@@ -1,0 +1,16 @@
+name: Biloxi Blues
+region: american
+roster:
+Alec Long
+Sonny Scott
+Tanner Garrett
+Saul Francis
+Ryder Murphy
+Jasiah Jacobs
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

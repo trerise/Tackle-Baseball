@@ -1,0 +1,16 @@
+name: Delaware Chiefs
+region: american
+roster:
+Zayd Kelley
+Hugo Swanson
+Harold Irwin
+Azariah Chase
+Camilo Paul
+Logan Wade
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

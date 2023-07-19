@@ -1,0 +1,16 @@
+name: Mombasa Fire
+region: subsaharan
+roster:
+Ime Mnguni
+Nyota Ngidi
+Sibonelo Abega
+Sikhanyiso Dini
+Sifiso Ssentamu
+Nonkululeko Diaw
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

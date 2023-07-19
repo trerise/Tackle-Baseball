@@ -1,0 +1,16 @@
+name: Wichita Wings
+region: american
+roster:
+Aden Cummings
+Dariel Monroe
+Colter Ross
+Damir Walton
+Douglas Sandoval
+Paul Mcmillan
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Kenya Bird Songs
+region: subsaharan
+roster:
+Kofo Ngobi
+Menzi Mgimwa
+Menzi Mwenda
+Rolihlahla Gidey
+Mahama Musisi
+Senait Sangweni
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

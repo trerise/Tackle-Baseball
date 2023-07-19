@@ -1,0 +1,16 @@
+name: Sacramento Bees
+region: american
+roster:
+Azariah Erickson
+Stephen Clay
+Emir Guerrero
+Jude Hudson
+Ricardo James
+Eliseo Woods
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

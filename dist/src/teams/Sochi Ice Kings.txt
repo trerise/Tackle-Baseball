@@ -1,0 +1,16 @@
+name: Sochi Ice Kings
+region: easterneuro
+roster:
+Agafon Chomsky
+Avdiyes Zyazikov
+Abagor Chudakov
+Arkady Adamchik
+Feofan Pletnyov
+Avdiyes Kishinevsky
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Chesapeake Bay Retrievers
+region: american
+roster:
+Nikolas Mcfarland
+Alexander Medina
+Salvatore Prince
+Lawrence Dickson
+Jamie Ramirez
+Simon Mercer
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

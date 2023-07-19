@@ -1,0 +1,16 @@
+name: Punta del Este Gauchos
+region: hispanic
+roster:
+Edmundo Villegas
+Sebastian Govea
+Álvaro Chavira
+Jorge Vanegas
+Milo Deleon
+Isaac Samaniego
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Nunavut Inuit
+region: american
+roster:
+Felix Brooks
+Benicio Riddle
+Ocean Craft
+Colby Slater
+Dominik Dawson
+Misael Cox
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

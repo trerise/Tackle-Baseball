@@ -1,0 +1,16 @@
+name: Chocolate City Turtle Doves
+region: hispanic
+roster:
+Santino Arvizu
+Rodrigo Delossantos
+Andres Moreira
+Angel Santacruz
+Mateo Avelar
+Alonso Fuentes
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

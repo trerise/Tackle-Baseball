@@ -1,0 +1,16 @@
+name: South Korea Sun
+region: korean
+roster:
+Yeon Chang-min
+Ok Dong-hoon
+Ji Jeong-ho
+Choi Yong-joon
+Jeon Dong-woo
+Kong Ki-jung
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

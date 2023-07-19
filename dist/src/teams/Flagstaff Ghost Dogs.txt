@@ -1,0 +1,16 @@
+name: Flagstaff Ghost Dogs
+region: american
+roster:
+Oakley Marsh
+Ayan Bishop
+Drew Lyons
+Javier Christian
+Briggs Parker
+Amos Clemons
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

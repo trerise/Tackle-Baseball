@@ -1,0 +1,16 @@
+name: Natal Seahorses
+region: hispanic
+roster:
+Carlos Aceves
+Geronimo Balderrama
+Facundo Alanis
+Juan Tovar
+José Carlos Alejandro
+Liberto Vazquez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

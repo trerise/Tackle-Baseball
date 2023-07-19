@@ -1,0 +1,16 @@
+name: Yorkton Blaze
+region: american
+roster:
+Castiel Graves
+Wyatt Salazar
+Lachlan Lester
+Aiden Boone
+Abdullah Mcknight
+Angel Knowles
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

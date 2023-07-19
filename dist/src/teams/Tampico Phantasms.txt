@@ -1,0 +1,16 @@
+name: Tampico Phantasms
+region: hispanic
+roster:
+Pablo Torrez
+Omar Franco
+Manrique Parker
+Jorge Robledo
+Carmelo Evans
+Hector Rubio
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

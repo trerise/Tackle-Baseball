@@ -1,0 +1,16 @@
+name: Birmingham Stallions
+region: american
+roster:
+Karter Stewart
+Westin Gonzales
+Branson Oneil
+Jackson Richards
+Kohen Britt
+Donovan Barry
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

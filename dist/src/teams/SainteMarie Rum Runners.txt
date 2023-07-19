@@ -1,0 +1,16 @@
+name: SainteMarie Rum Runners
+region: french
+roster:
+Fabrice LaRue
+Charle Defays
+Pierre-Julien Chatel
+Melvin Aymard
+Matthieu Duflot
+Léo Brousseau
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

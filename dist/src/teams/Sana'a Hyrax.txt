@@ -1,0 +1,16 @@
+name: Sana'a Hyrax
+region: arabic
+roster:
+Anas Al-Omari
+Abd al-Baqi Al Tunaij
+Samir Chatti
+Akram Riad
+Fawzi Al Balushi
+Majid Atiq
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

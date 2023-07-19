@@ -1,0 +1,16 @@
+name: Salem Salmon
+region: american
+roster:
+Leonidas Norris
+Amias Shepherd
+Owen Tran
+Ronan Hess
+Rayan Albert
+Soren Burris
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

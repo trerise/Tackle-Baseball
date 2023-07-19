@@ -1,0 +1,16 @@
+name: Carolina Tartan
+region: american
+roster:
+Maximilian Willis
+Makai Dunn
+Leonel Abbott
+Tate Gonzales
+Casen Sharpe
+Boston Mejia
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

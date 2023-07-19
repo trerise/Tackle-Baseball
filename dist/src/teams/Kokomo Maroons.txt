@@ -1,0 +1,16 @@
+name: Kokomo Maroons
+region: american
+roster:
+Dean Hancock
+Quinn Pace
+Luis Moon
+Ander Roth
+Kendrick Holcomb
+Ernesto Page
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Springfield Mayflowers
+region: american
+roster:
+Amias Finley
+Apollo Heath
+Onyx Boyer
+Eduardo Webb
+Samuel Hoffman
+Ermias Curtis
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

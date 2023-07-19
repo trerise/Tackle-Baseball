@@ -1,0 +1,16 @@
+name: Farul Constanta
+region: arabic
+roster:
+Faraj Fahri
+Urwa Jabr
+Uthman Saleh
+Sajjad Araiji
+Wahed Lajami
+Najm Muhsin
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Great Falls Cutthroats
+region: american
+roster:
+Brantley Black
+Hayes Mcbride
+Cooper Salinas
+Finnley Silva
+Kai Jacobs
+Jerry Fischer
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

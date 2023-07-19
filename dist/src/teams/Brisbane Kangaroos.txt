@@ -1,0 +1,16 @@
+name: Brisbane Kangaroos
+region: american
+roster:
+Ryland Pittman
+Solomon Bird
+Jayce Chaney
+Houston Vaughan
+Damien Cantrell
+Dylan Atkins
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

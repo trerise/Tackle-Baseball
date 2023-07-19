@@ -1,0 +1,16 @@
+name: Oklahoma Grey Sox
+region: american
+roster:
+Gage Parsons
+Gage Bishop
+Kyree Farley
+Colton Glover
+Casey Mcgee
+Bear Vargas
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

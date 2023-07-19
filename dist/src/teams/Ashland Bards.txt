@@ -1,0 +1,16 @@
+name: Ashland Bards
+region: american
+roster:
+Ezequiel Small
+Paul Richard
+Casen Langley
+Joseph Hoffman
+Arjun Rosa
+Julian Lynch
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

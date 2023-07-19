@@ -1,0 +1,16 @@
+name: Des Moines Mastadons
+region: american
+roster:
+Zyair Franco
+Soren Woods
+Jedidiah Richard
+Cameron Forbes
+Landyn Fletcher
+Ameer Larson
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

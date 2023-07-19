@@ -1,0 +1,16 @@
+name: Illinois Iroquois
+region: american
+roster:
+Johnny Patel
+Kayden Frederick
+Wesley Becker
+Boone Blackwell
+Malik Blake
+Kareem Herrera
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

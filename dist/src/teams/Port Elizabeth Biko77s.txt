@@ -1,0 +1,16 @@
+name: Port Elizabeth Biko77s
+region: subsaharan
+roster:
+Tiyamiyu Zziwa
+Tshepo Oduor
+Nnaemeka Hatendi
+Sifiso Ngobi
+Tiyamiyu Boumal
+Karabo Sall
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

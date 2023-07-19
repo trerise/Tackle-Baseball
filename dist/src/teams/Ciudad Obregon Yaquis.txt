@@ -1,0 +1,16 @@
+name: Ciudad Obregon Yaquis
+region: hispanic
+roster:
+Bautista Manriquez
+Ignacio Carmona
+Emmanuel Davalos
+Mario Arreola
+Rodrigo Garces
+David Carter
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: San Pedro de Macoris Eastern Stars
+region: hispanic
+roster:
+Christopher Longoria
+Alejandro Corona
+Cristóbal Urrutia
+Luciano Arreguin
+Juan Diego Renteria
+Eduardo Cerda
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

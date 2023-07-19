@@ -1,0 +1,16 @@
+name: Silver Rain
+region: hispanic
+roster:
+Eliseo Miller
+Alexander Mesa
+Leo Fabian
+Eduardo Mendez
+Máximo Rodarte
+Pedro Soriano
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

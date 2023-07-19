@@ -1,0 +1,16 @@
+name: Qasioun Eagles
+region: arabic
+roster:
+Nasir al-Din Maleh
+Khaldoon Din
+Abd al-Aziz Assan
+Abd al-Aziz Wardak
+Fahri Halimi
+Osman Hanna
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

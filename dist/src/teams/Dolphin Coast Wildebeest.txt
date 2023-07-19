@@ -1,0 +1,16 @@
+name: Dolphin Coast Wildebeest
+region: subsaharan
+roster:
+Menzi Gwede
+Kassoum Ntambirweki
+Sikhanyiso Conteh
+Fisayo Namayanja
+Mahama Yatabaré
+Eberechi Muliro
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

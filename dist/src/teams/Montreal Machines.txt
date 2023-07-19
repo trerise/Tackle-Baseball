@@ -1,0 +1,16 @@
+name: Montreal Machines
+region: american
+roster:
+Alaric Hopper
+Dante Pollard
+Roland Gardner
+Ezekiel Ware
+Mohamed Wade
+Azriel Abbott
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,1 @@
+import xlsx from"node-xlsx";import fs from"fs";const workSheetsFromFile=xlsx.parse("C:/Users/treri/OneDrive/Desktop/sched.xlsx");function buildSchedule(e){let o=e,r=[],s=[],l=0;for(let e=0;e<o.length;e++)o[e].length>0&&(s.push(o[e][0]),l++),2===l&&(r.push(s),l=0,s=[]);return r}console.log(workSheetsFromFile[0]);export{buildSchedule};

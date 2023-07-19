@@ -1,0 +1,16 @@
+name: Quebec Nordiques
+region: french
+roster:
+Élisée Poussin
+Florian Brouillet
+Clement Calmels
+Noel Auguste
+André-Marie Alibert
+Jonathan Piton
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

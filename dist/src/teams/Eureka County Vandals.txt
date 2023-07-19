@@ -1,0 +1,16 @@
+name: Eureka County Vandals
+region: american
+roster:
+Beckham Odonnell
+Julian Johnston
+Bryson Thomas
+Rory Todd
+Rowan Tucker
+Noe Stone
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

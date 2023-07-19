@@ -1,0 +1,16 @@
+name: Giant Robots
+region: american
+roster:
+Atreus Mcmahon
+Jon Barry
+Dawson Campbell 2
+Romeo Barr
+Isaiah Townsend
+Henrik Combs
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Bissau Chimpanzees
+region: subsaharan
+roster:
+Sekou Yatabaré
+Mrisho Abega
+Lassana Mutanga
+Sifiso Toualy
+Chibuzor Souna
+Mbungu Malecela
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

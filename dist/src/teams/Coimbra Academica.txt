@@ -1,0 +1,16 @@
+name: Coimbra Academica
+region: hispanic
+roster:
+Sergio Carrillo
+Tomás Montero
+Joaquín Alcantara
+Carlos Eduardo Saldivar
+Felipe Corral
+Emilio Arias
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

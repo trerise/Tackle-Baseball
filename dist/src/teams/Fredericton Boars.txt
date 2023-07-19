@@ -1,0 +1,16 @@
+name: Fredericton Boars
+region: american
+roster:
+Kenneth Pena
+Ellis Burton
+Eugene Boyd
+Killian Brown
+Kylo Underwood
+Lane Bridges
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

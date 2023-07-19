@@ -1,0 +1,16 @@
+name: Red China
+region: chinese
+roster:
+Lóng On
+Wèi Jīn Cheung
+Yú Hai
+Jiǎng Deli
+Mèng Yǐn Manchu
+Cháng Hua
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

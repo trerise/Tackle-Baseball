@@ -1,0 +1,16 @@
+name: Graceland Kings
+region: american
+roster:
+Beckett Watts
+Omar Harris
+Bowie Griffith
+Callum Dyer
+Idris Chavez
+Kace Emerson
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

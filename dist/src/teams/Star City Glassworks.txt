@@ -1,0 +1,16 @@
+name: Star City Glassworks
+region: american
+roster:
+Kaleb Ryan
+Roman Pennington
+Adrien Gill
+Carson Harrington
+Evander Allison
+Lewis Price
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

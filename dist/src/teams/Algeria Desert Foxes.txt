@@ -1,0 +1,16 @@
+name: Algeria Desert Foxes
+region: french
+roster:
+Noel Fiquet
+Maurille Gaillot
+Michel-Ange Nadon
+Jérémie Toussaint
+Joël Thibaut
+Timothée Carré
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

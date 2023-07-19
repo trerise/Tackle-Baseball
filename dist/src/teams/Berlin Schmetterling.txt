@@ -1,0 +1,16 @@
+name: Berlin Schmetterling
+region: german
+roster:
+Christof Spee
+Yannik Kriehuber
+Bodo Bernbaum
+August Rieth
+Florian Hasselmann
+Gebhard Straßburger
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Mexico City Black Eagles
+region: hispanic
+roster:
+Heriberto Mata
+Tomás Zambrano
+Juan José Alegria
+Matthew Avila
+Ulises Tarango
+Leon Noriega
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Wise Ravens
+region: american
+roster:
+Lochlan Travis
+Lawrence Chaney
+Jordan Mccarty
+Luca Fischer
+Remi Park
+Mac Kirk
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

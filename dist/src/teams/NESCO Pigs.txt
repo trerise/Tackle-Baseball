@@ -1,0 +1,16 @@
+name: NESCO Pigs
+region: american
+roster:
+Anakin Pollard
+Bo Crosby
+Wesson Berry
+Moses Strickland
+Valentino Reid
+Layton Hughes
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

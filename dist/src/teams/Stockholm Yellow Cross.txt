@@ -1,0 +1,16 @@
+name: Stockholm Yellow Cross
+region: german
+roster:
+Roland Welz
+Sylvester Gassmann
+Helge Wick
+Rocco Neumayer
+Fridolin Saxer
+Rüdiger Bahner
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: La Maquina
+region: hispanic
+roster:
+Eduardo Guillen
+Roberto Roybal
+Ademar Murillo
+Matías Deluna
+Fidel Javier
+Luca Pinon
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

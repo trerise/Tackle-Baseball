@@ -1,0 +1,16 @@
+name: Zealand Aquabats
+region: scandinavian
+roster:
+Ove Hagström
+Holger Östergren
+Oscar Walgren
+Harald Lund
+Vagn Ericsson
+Lasse Ossler
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

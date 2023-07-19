@@ -1,0 +1,16 @@
+name: Rhode Island Red Rams
+region: american
+roster:
+Zayd Cooley
+Mathew Bailey
+Kelvin Bender
+Nathan Rosario
+Darren Hodge
+Houston Williams
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Columbus Tigers
+region: american
+roster:
+Riggs Wood
+Malik Schroeder
+Kelvin Lara
+Finnley Goodwin
+Rylan Obrien
+Yusuf Andrews
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

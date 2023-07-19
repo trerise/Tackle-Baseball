@@ -1,0 +1,16 @@
+name: Winnipeg Zephyrs
+region: american
+roster:
+Melvin Norton
+Kayson Hanson
+Santos Knowles
+Osiris Underwood
+Bowen Morgan
+Jeremias Greer
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

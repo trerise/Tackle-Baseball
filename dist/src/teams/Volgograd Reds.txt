@@ -1,0 +1,16 @@
+name: Volgograd Reds
+region: easterneuro
+roster:
+Anatoly Kabakov
+Matvei Barabanov
+Timofey Slutsky
+Abram Trifonov
+Alexey Shcherbachov
+Grischa Yeryomin
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

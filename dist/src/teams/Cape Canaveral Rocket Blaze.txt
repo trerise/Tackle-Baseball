@@ -1,0 +1,16 @@
+name: Cape Canaveral Rocket Blaze
+region: american
+roster:
+Jamie Stafford
+Azael Velez
+Corbin Hobbs
+Callahan Hurst
+Orlando Allison
+Jaxson Chen
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Herzegovina Croats
+region: easterneuro
+roster:
+Afanasy Kapitonov
+Agafopus Kalashnikov
+Alexey Kazantsev
+Agafopus Rozanov
+Avdakt Krasikov
+Agafon Russkikh
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

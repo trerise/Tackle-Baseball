@@ -1,0 +1,16 @@
+name: Hollis Hamsters
+region: american
+roster:
+Izaiah Hatfield
+Sylas Ellis
+Wylder Parsons
+Gideon Guzman
+Alistair Fletcher
+Khalid Villarreal
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

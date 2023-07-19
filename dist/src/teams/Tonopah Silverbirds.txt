@@ -1,0 +1,16 @@
+name: Tonopah Silverbirds
+region: american
+roster:
+Dakari David
+Hank Avery
+Emmanuel Cooper
+Liam Silva
+Abdiel Wiggins
+Colt Mcdaniel
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

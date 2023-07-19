@@ -1,0 +1,16 @@
+name: Dusseldorf Barons
+region: german
+roster:
+Roger Höss
+Eibert Hellmuth
+Sven Kielholz
+Kurt Schwarzenberger
+Florian Schieffer
+Rembrandt Winzer
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

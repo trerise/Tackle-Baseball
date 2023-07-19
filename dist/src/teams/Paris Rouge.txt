@@ -1,0 +1,16 @@
+name: Paris Rouge
+region: french
+roster:
+Yacine Brouzet
+Frank Bonheur
+Lazare Barrière
+Stéphane Saunier
+Théodore Bouchart
+Jean-René Fétique
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

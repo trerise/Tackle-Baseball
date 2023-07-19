@@ -1,0 +1,16 @@
+name: Castries Iguanas
+region: hispanic
+roster:
+Valentin Sevilla
+Jorge Navarrete
+Jimeno Olivo
+José María Ward
+Benjamín Linares
+Jacob Garcia
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

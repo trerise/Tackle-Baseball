@@ -1,0 +1,16 @@
+name: Schenectady Dutchmen
+region: american
+roster:
+Harrison Robinson
+Ocean Rush
+Oakley Soto
+Genesis Hodge
+Marcellus Brennan
+Rayden Hall
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

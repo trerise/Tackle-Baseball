@@ -1,0 +1,16 @@
+name: Lolland Islanders
+region: german
+roster:
+Andreas Weyrauch
+Dirk Heusner
+Ludger Steinhäusser
+Ulrich Trommer
+Engelbert Spreitzer
+Joachim-Friedrich Lachner
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

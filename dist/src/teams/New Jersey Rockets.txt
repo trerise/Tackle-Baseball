@@ -1,0 +1,16 @@
+name: New Jersey Rockets
+region: american
+roster:
+Bishop Moran
+Kristopher Flowers
+Forest Shepherd
+Raphael Rosario
+Turner Beasley
+Lawson Workman
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

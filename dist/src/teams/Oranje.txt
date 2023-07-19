@@ -1,0 +1,16 @@
+name: Oranje
+region: german
+roster:
+Linus Hipler
+Ludger Goldhaber
+Robin Howald
+Utto Rieder
+Peter Wittgenstein
+Jerome Kammerlander
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Manhattan Roosters
+region: american
+roster:
+Reuben Morales
+Baylor Burks
+Tommy Hogan
+Desmond Blackburn
+Khari Horne
+Eddie Mcdowell
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

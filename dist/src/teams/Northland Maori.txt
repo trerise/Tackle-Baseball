@@ -1,0 +1,16 @@
+name: Northland Maori
+region: american
+roster:
+Loyal Crosby
+Dario Mays
+Graysen Goodwin
+Ayden Love
+Gael Adams
+Zander Melendez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

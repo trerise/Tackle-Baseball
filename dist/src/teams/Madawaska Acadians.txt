@@ -1,0 +1,16 @@
+name: Madawaska Acadians
+region: american
+roster:
+Dariel Blackburn
+Ishaan Dorsey
+Declan Gilmore
+Alden Holloway
+Kaysen Pennington
+Keegan Durham
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

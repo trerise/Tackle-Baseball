@@ -1,0 +1,16 @@
+name: Empire State Rogues
+region: american
+roster:
+Fox Deleon
+Quinn Richards
+Koen Mcmahon
+Riley Blankenship
+Benjamin Morales
+Carlos Howard
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

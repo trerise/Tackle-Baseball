@@ -1,0 +1,16 @@
+name: Mystic Island Stormbringers
+region: american
+roster:
+Damon Hendrix
+Mario Conner
+Howard Farley
+Amias Hammond
+Yahir Drake
+Marco Brooks
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

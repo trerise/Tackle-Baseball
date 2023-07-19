@@ -1,0 +1,16 @@
+name: Lincoln Cornhuskers
+region: american
+roster:
+Carter Walters
+Krew Sykes
+Nathanael Ellis
+Levi Frank
+Cassius Whitley
+Houston Beasley
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

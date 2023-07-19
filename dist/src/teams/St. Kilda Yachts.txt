@@ -1,0 +1,16 @@
+name: St. Kilda Yachts
+region: american
+roster:
+Dallas Morton
+Calvin Rosario
+Ahmed Foster
+Seth Blanchard
+Roger Spears
+Emerson Thornton
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

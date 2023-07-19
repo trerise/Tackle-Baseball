@@ -1,0 +1,16 @@
+name: Buffalo Black Dogs
+region: american
+roster:
+Kingsley Casey
+Zayd Solis
+Felix Koch
+Ledger Leon
+Idris Wynn
+Brantley Clay
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

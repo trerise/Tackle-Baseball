@@ -1,0 +1,16 @@
+name: Brattleboro Purple Martins
+region: american
+roster:
+Conor Matthews
+Rene Greer
+Gael Butler
+Landyn Malone
+Jayden Caldwell
+Kace Gomez
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

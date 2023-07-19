@@ -1,0 +1,16 @@
+name: PortoNovo Giraffes
+region: subsaharan
+roster:
+Kalidou Mahama
+Muideen Sibanda
+Chibuzor Mezgebu
+Olipa Obuya
+Makame Lassissi
+Nkosana Rusere
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

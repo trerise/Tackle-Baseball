@@ -1,0 +1,16 @@
+name: Apia Apes
+region: american
+roster:
+Jett Allen
+Jace Lambert
+Anakin Holloway
+Rylan Gregory
+Melvin Doyle
+Owen Salinas
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

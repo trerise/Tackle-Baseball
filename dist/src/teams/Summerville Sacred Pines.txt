@@ -1,0 +1,16 @@
+name: Summerville Sacred Pines
+region: american
+roster:
+Archer Calhoun
+Onyx York
+Zayd Boyle
+Jeffrey Chan
+Jose Richmond
+Axton Rogers
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

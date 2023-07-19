@@ -1,0 +1,16 @@
+name: Manta Rays
+region: hispanic
+roster:
+Cristhian Medina
+Luciano Turcios
+Tonio Martin
+Iker Jimenez
+Andrés Rodas
+Christopher Montalvo
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Acapulco Aztecs
+region: hispanic
+roster:
+Carlos Bustos
+Esteban Ledesma
+Franco Encarnacion
+Tonino Izaguirre
+Obdulio Henriquez
+Lorenzo Montenegro
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

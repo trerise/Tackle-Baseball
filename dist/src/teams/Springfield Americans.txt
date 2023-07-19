@@ -1,0 +1,16 @@
+name: Springfield Americans
+region: american
+roster:
+Lucas Walsh
+Ignacio Robinson
+Kylian Hinton
+Dawson Donaldson
+Jagger Martin
+Junior Leon
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

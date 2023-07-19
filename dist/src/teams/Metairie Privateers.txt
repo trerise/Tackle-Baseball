@@ -1,0 +1,16 @@
+name: Metairie Privateers
+region: american
+roster:
+Kingston Douglas
+Ari Martinez
+Jonas Soto
+Kyro Wynn
+Judson Gutierrez
+Creed Mathews
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

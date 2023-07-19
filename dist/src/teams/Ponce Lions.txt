@@ -1,0 +1,16 @@
+name: Ponce Lions
+region: hispanic
+roster:
+Juanfran Galicia
+Fernando Delapaz
+Napoleon Navarro
+Noe Macias
+Ian Bianco
+Samuel Martines
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

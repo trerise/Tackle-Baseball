@@ -1,0 +1,16 @@
+name: West Texas Bulldogs
+region: american
+roster:
+Maurice Dickson
+Keith Gilmore
+Hayes Mccall
+Eric Hooper
+Colton Shelton
+Yehuda Donaldson
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

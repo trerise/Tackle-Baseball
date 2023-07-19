@@ -1,0 +1,16 @@
+name: Fort Wayne Giants
+region: american
+roster:
+Brixton Frost
+Jones Haynes
+Jaxx Barrett
+Ronald Tucker
+Jamie Goodman
+Henrik Horton
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

@@ -1,0 +1,16 @@
+name: Portland Lobsters
+region: american
+roster:
+Krew Brennan
+Milan Dale
+Osman Diaz
+Samson Kaufman
+Keith Morris
+Chase Reeves
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

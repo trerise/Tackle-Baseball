@@ -1,0 +1,16 @@
+name: La Paz Coromuel Winds
+region: hispanic
+roster:
+Reno Alejo
+Pepe Pelaez
+Bastian Roque
+Pedro Deluna
+Ramiro Giron
+Gabriel Guevara
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

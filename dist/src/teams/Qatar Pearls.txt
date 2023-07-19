@@ -1,0 +1,16 @@
+name: Qatar Pearls
+region: arabic
+roster:
+Abd al-Ghafur Gaddafi
+Saadallah Yaziji
+Suleiman Nabi
+Abd al-Bari Afif
+Abdullahi Tavakkoli
+Hidayatullah Nadvi
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

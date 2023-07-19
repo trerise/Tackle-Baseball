@@ -1,0 +1,16 @@
+name: Syria Union
+region: arabic
+roster:
+Yakub Sadir
+Jabari Al-Jazari
+Sajid Benyamina
+Nasim Damji
+Khair ad-Din Zaki
+Fazli Laghmani
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

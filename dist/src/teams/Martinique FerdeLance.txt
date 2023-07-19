@@ -1,0 +1,16 @@
+name: Martinique FerdeLance
+region: french
+roster:
+Jacques-Désiré Aliker
+Edmond Bebout
+François-Xavier Boisson
+Isidore Trinquier
+Pascal Bonhomme
+Odilon Lehideux
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

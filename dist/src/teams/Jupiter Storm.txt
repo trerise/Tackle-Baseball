@@ -1,0 +1,16 @@
+name: Jupiter Storm
+region: american
+roster:
+Martin White
+Omari Walls
+Jedidiah Berg
+Colter Morrison
+Joseph Blevins
+Emery Reynolds
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

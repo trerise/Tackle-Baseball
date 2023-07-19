@@ -1,0 +1,16 @@
+name: New York City Hawks
+region: american
+roster:
+Ray Beck
+Palmer Warner
+Samir Wagner
+Zev Mendoza
+Lachlan Lynn
+Nico Schroeder
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

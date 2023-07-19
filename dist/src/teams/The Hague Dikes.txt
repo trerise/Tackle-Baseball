@@ -1,0 +1,16 @@
+name: The Hague Dikes
+region: german
+roster:
+Eitel Borsch
+Wilhelm Erlbaum
+Hans-Ulrich Eisenhower
+Fridolf Prenzler
+Walther Fenchel
+Eitel Gienow
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

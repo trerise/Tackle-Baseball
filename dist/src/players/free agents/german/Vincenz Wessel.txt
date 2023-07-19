@@ -1,0 +1,42 @@
+name: Vincenz Wessel
+  power: 78
+  speed: 87
+  eye: 78
+  tackle: 72
+  breaktackle: 56
+  block: 51
+  breakblock: 81
+  awareness: 73
+  age: 45
+  potential: D
+
+
+
+stats:
+Season 2023:
+  Points Scored: 0
+  Assists: 0
+  Assist Points: 0
+  Broken Tackles: 0
+  Balls Fielded (OFF): 0
+  Blocks: 0
+  Turnovers: 0
+  Pitches: 0
+  Strikes: 0
+  Balls: 0
+  Fouls: 0
+  Strikeouts Pitching: 0
+  Ball Outs: 0
+  Slams Given: 0
+  At-Bats: 0
+  Hits: 0
+  Slams: 0
+  Hits to Out: 0
+  Hits to Offense: 0
+  Foulouts: 0
+  Strikeouts Batting: 0
+  Tackles: 0
+  Blocks Shed: 0
+  Interceptions: 0
+  Balls Fielded (DEF): 0
+  Total Outs Recorded: 0

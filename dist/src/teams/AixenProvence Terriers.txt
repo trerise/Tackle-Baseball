@@ -1,0 +1,16 @@
+name: AixenProvence Terriers
+region: french
+roster:
+Flavien Hodin
+Nicodème Nageotte
+Patrice Ducournau
+Camille Poincaré
+Claude-Henri Rigal
+Aubin Kouchner
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any

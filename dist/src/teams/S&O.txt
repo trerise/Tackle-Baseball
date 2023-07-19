@@ -1,0 +1,16 @@
+name: S&O
+region: greek
+roster:
+Sophocles Schinas
+Nestor Parios
+Paraskevas Nevrakis
+Anestis Tsakalidis
+Filippos Raskopoulos
+Athanasius Vovos
+stats:
+Season 2023
+Points Against: 0
+Wins: 0
+Losses: 0
+Ties: 0
+League: Any
